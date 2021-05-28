@@ -1,0 +1,403 @@
+! Title: Filtro Personal
+! Description: Filtro general.
+! Last Modified: 28-05-2021
+! Homepage: https://github.com/MariioCL/Lista-Personal
+
+facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Sponsored/)
+||static.queue-it.net^$script
+
+! Bloqueador de twitch.tv para desbloquear la descarga de vídeos
+clips.twitch.tv##.player-overlay
+player.twitch.tv##.player-overlay
+
+! Bloqueador de Discord en TruckersMP Settings
+||discordapp.com/widget$subdocument
+
+! Páginas sospechosas, publicidad
+http://satplate.ru^
+http://www.kinotuta.ru^
+http://kvath.kinotuta.ru^
+http://167.99.42.108^
+shalledinition.club^
+imagetopng.club
+https://affiliate.iqoption.com^
+http://partners_click.bitcasino.io^
+http://www.dpbolvw.net^
+http://wiresurequezer.pro^
+https://png2imag.club^
+https://www.narcosxxx.com^
+www.liveinternet.ru^
+https://counter.yadro.ru^
+1q2w3.website^
+https://rtxta.bemobtrk.com^
+1b54ce51d5024207c4b.com^
+||celebrity-leaks.net/begin.php?img=*$image
+eoredi.com^
+http://mh9dskj8jg.com^
+exponential.com^
+https://browser-test.info^
+http://applicationgrabb.net^
+http://iv2017.info^
+https://ncontentdelivery.info^
+https://getawesome5.com^
+http://www.learnthelyrics.com^
+https://freeusenet.website^
+https://kbx1sth37s.com^
+http://163.172.224.35^
+theirsvendor.com^
+http://pageperso.free.fr^
+internetspeedtracker.com^
+bullads.net^
+http://188.166.115.196^
+https://autosseguros.info^
+http://ref-dir.com^
+https://ccandroid.live^
+https://diferenciasymas.com^
+https://undertake.live^
+https://dolohen.com^
+https://defpush.com^
+https://humaribit.win^
+https://jerredsite.pro^
+https://www.destinosturisticos.life^
+https://enques.info^
+https://investing-review.com^
+https://telecianien.host^
+https://alcidebrought.pro^
+https://chatbro.com^
+http://chatbro.com^
+www.chatbro.com^
+|st.chatango.com/h5/gz/r0928181318/id.html$subdocument
+||st.chatango.com/h5/gz/r1030181148/id.html$subdocument
+||st.chatango.com^
+http://ww12.europerikuytol.info^
+https://deals.pastebin.com^
+https://www.cinecalidad.plus^
+https://jnhwq.25481.online^
+https://www.pelis24.net^
+https://blog-peliculas.com^
+https://offgashah.club^
+https://bitcoinnews24.me^
+https://jzhzm30o49gv.com^
+https://iqoption.com^
+https://redirect.kleeno.xyz^
+https://llink.site^
+https://ueuodgnrhb.com^
+https://thebestgame2020.com^
+https://velocitycdn.com^
+|https://ads2.uptobox.com/www/delivery/asyncjs.php$subdocument
+https://openload.co^
+http://mallowsmother.com^
+https://track.adsplay.in^
+https://eldergale.com^
+https://rojabet.cl^
+https://velocitycdn.com^
+https://eiteratebef.top^
+https://arlottencert.club^
+https://lsailington.club^
+https://banesnorttat.cam^
+https://duetgypsyantis.com^
+https://squeezedthoughtfully.com^
+https://remarketingpixel.com^
+http://ensuedinbornsubdivide.com^
+https://ads2.uptobox.com^
+||https://ads2.uptobox.com$script
+saliencege.top^
+https://sc2.darfilms.com^
+https://financialfxclub.com^
+https://blog.maquinadepesas.me^
+
+! Páginas con virus, no desbloquear
+https://wordquatdelas.gq^
+https://skidrowcodex.co^
+webminepool.com^
+minexmr.stream^
+hostingcloud.racing^
+authedmine.com^
+verifypow.com^
+https://inkarvylage15.live^
+http://da26gklo05t50.cloudfront.net^
+https://petoweflip.com^
+https://add-fix.com^
+bbtoolser.it^
+targonmatteo.it^
+rcriparazionielettrodomestici.it^
+http://143.198.58.78^
+http://demo.exent.it^
+
+! Páginas con mineros
+https://www.hostingcloud.racing
+||https://www.hostingcloud.racing$script
+
+! Imagenes publicidad
+||www.hentai-id.tv/wp-content/themes/moviescript/assets/img/04.jpg$image
+||pivigames.blog/wp-content/uploads/2018/06/apoyo.png$image
+||pivigames.blog/wp-content/uploads/2018/06/banner-xess-pro-300x250.jpg$image
+||rltracker.pro/assets/patreon_new-2a20df181679954ee5b9dbc228058bccef69d284bc9f4dc2c78c449e3e5265d3.png$image
+||4.bp.blogspot.com/-nFEgK-6fMPg/WjSFvos-GrI/AAAAAAAAoS8/s--fPbocBUMjBHpTSSD6Q7KQf2FWLuXiwCLcBGAs/s1600/uploaded.png$image
+||jcp.mobi/images/download_pelis.png$image
+||igg-games.com/wp-content/uploads/2015/09/DonateSupport1.gif$image
+||i0.wp.com/trackdayargentina.com.ar/wp-content/uploads/2018/04/banner-trackday-2018.gif$image
+||1v.to/img/descargar_bnr.png$image
+||cdn.flvto.biz/load/^$image
+https://filecrypt.cc/images/jkh324kjh.png$image
+||upera.co/img/maghzha/maghzha32.jpg$image
+||upera.co/img/maghzha/maghzha94.jpg$image
+||www.sexy-youtubers.com/gotoback.php*$image
+||cheapdigitaldownload.com/wp-content/uploads/Red-Dead-ENG-1.jpg$image
+||zlshorte.net/301.html$subdocument
+||lolnada.org/exnb/exbbll.php*$image
+||reblop.com/video/wp-content/uploads/2019/08/008325A_JRKM_18_ALL_EN_71_L.gif$image
+||www.erome.com/35.php*$image
+||goeswild.co/share/share.php^$image
+||downloadtwittervideo-xvbumqfixmhzxo.stackpathdns.com/imgs/wondershareAd1.png$image
+||downloadtwittervideo-xvbumqfixmhzxo.stackpathdns.com/imgs/wondershareAd2.png$image
+||katan.io/dist/images/binance160x600.jpg?v38$image
+||cdn.staticaly.com/img/1.bp.blogspot.com/-HBAn6d5ASHc/XOf-LuU5EhI/AAAAAAAAIDY/3d92isgpz88AtLn7TOaTxYFoc_pw0MdgQCLcBGAs/s1600/banneradblocker2.png$image
+||2.bp.blogspot.com/-MYwCOr2ez-Y/W73q9oxu3UI/AAAAAAAAHKs/7-dPEEupo68royg1hj3ANMWu_-YAzSZWACLcBGAs/s1600/blend-s.gif$image
+||www.3djuegos.com/skins/*$image
+||cheapdigitaldownload.com/wp-content/uploads/BG-AKS-CDD-PT-IT-NL.jpg$image
+||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
+||www.filecrypt.cc/blob/ugh4enroc.png$image
+||www.youngleak.com/app.php*$image
+||www.youngleak.com/sublogo.png$image
+||videos.youngleak.com/ba_er.php*$image
+||userstyles.org/ui/images/280x294.png$image
+||userstyles.org/ui/images/bg-download-overlay.jpg$image
+||cdn.epicbundle.com/fallback/image/epic-bundle_tag_336280-a_02.jpg$image
+||cdn1.ipauta.com/wp-content/uploads/2018/11/disponible-si-tu.jpg$image
+||cdn2.ipauta.com/wp-content/uploads/2018/11/Jaiman-te-mintio-banner.jpg$image
+||cdn1.ipauta.com/wp-content/uploads/2018/11/disponible-si-tu.jpg$image
+||obligao.com/images/4puntos-obligao.jpg$image
+||apis.google.com/se/0/_/+1/fastbutton?usegapi=1&size=medium&hl=es-419&origin=https%3A%2F%2Fwww.animeid.tv&url=https%3A%2F%2Fwww.animeid.tv%2Fv%2Fore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-4&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es_419.05ovqjPmLKc.O%2Fam%3DQQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCONx-H33JnV58wT1X3WiphqKj7tzg%2Fm%3D__features__$subdocument
+||pastebin.com/i/steadfast_3.png$image
+||pastebin.com/nein/leaderboard_safe.php$subdocument
+||pastebin.com/nein/leaderboard_unsure.php$subdocument
+||pastebin.com/nein/skyscraper_safe.php$subdocument
+||pastebin.com/nein/skyscraper_unsure.php
+||pelisplus.live/imgad/playhd1.png$image
+||pelisplus.live/imgad/ver1.png$image
+||pelisplus.live/imgad/desc1.png$image
+||muacknet.ipower.com/350/05/index.php?q=adobe$subdocument
+||hdfull.io/tthumb/312x176/ethumb_tt6483832_1_14.jpg$image
+||hdfull.io/templates/hdfull/images/led.png$image
+||goeswild.co/include/rating.php*$image
+||uii.io/img/f.png$image
+||image.prntscr.com/image/j6WnVuTeRtugUCuQ6RHgNw.gif$image
+||image.prntscr.com/image/evF2k_H3TGK5X7s98Iuzlg.gif$image
+||www.compucalitv.com/wp-content/themes/Academy/images/wot-930-180.webp$image
+||userstyles.org/ui/images/icons/close-icon.svg$image
+||www.allkeyshop.com/blog/wp-content/uploads/background.webp?v=1590134687$image
+||www.allkeyshop.com/blog/wp-content/themes/aks-theme/assets/image/gleam/allkeyshop.com/gleam-banner.jpg$image
+||www.zona-leros.net/storage/cover_store/am9-store-hvp.jpg$image
+||gdrivelatinohd.site/wp-content/uploads/2020/11/cupones-mega.jpg$image
+||seriesypelisonline.com/wp-content/uploads/2020/04/me-corro.png$image
+
+! Banners molestos
+www.xataka.com###cookies-overlay
+www.chevrolet.cl###AgentAppContainer
+emagtrends.com###icegram_message_9898 > .ig_content
+emagtrends.com##.ig_clear_fix.ig_content
+vidoza.net##.btn-success.btn.goTo
+html-online.com###bottomNotification
+www.descargatelotodo.com###wnb-bar
+allcalidad.com###barraPlus1
+www.flaticon.com##.modal-wrapper
+www.flaticon.com##.banner
+www.obligao.com##.leftcol > table
+www.13.cl##.center-banner.top-header.banner
+blog.discordapp.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-width100pct.u-bottom0.u-fixed
+medium.com##.u-xs-paddingRight10.u-xs-paddingLeft10.u-xs-paddingBottom15.u-xs-paddingTop15.u-xs-marginRight10.u-xs-marginLeft10.u-sm-maxWidth740.u-borderRadius4.u-boxShadow2px10pxBlackLighter.u-borderLightest.u-backgroundWhite.u-paddingRight20.u-paddingLeft20.u-paddingBottom25.u-paddingTop25.u-marginAuto.u-maxWidth1040.u-borderBox
+medium.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-width100pct.u-bottom0.u-fixed
+www.intercambiosvirtuales.org###seguidores
+www.flvto.biz##.offer > div:nth-of-type(2)
+mp3-youtube.download##.v--modal.v--modal-box
+www.cooperativa.cl##.swal2-noanimation.swal2-modal.swal2-popup
+www.cooperativa.cl##.swal2-shown.swal2-center.swal2-container
+www.instagram.com##.Fzijm.bR_3v
+www.animeid.tv##[href^="/r.php"]
+www.ccleaner.com##.band--fixedheight.band
+userstyles.org###top_android_button
+userstyles.org##.android_button_banner
+www.camwhores.tv##[href^="https://t.hrtyj.com/v2k44zf0ow"]
+www.camwhores.tv##body > div:nth-of-type(5) > div:nth-of-type(1)
+www.camwhores.tv##body > div:nth-of-type(5)
+www.youngleak.com###footer-widgets
+www.youngleak.com##.copyright-bar
+yiff.party##.support-row-top.row
+yiff.party##.support-buttons.s12.col
+yiff.party##.white-text.card-content.support-card-content
+userstyles.org##div.us-stylecard--short:nth-of-type(3) > .fallbackDiv
+userstyles.org##div.us-stylecard--short:nth-of-type(3)
+userstyles.org##div.us-stylecard--short:nth-of-type(5) > .fallbackDiv
+userstyles.org##div.us-stylecard--short:nth-of-type(12) > .fallbackDiv
+userstyles.org##div.us-stylecard--short:nth-of-type(12)
+userstyles.org##div.us-stylecard--short:nth-of-type(5)
+userstyles.org##.overlay_content
+userstyles.org##.overlay_flex_div
+userstyles.org##.overlay_container
+userstyles.org##.overlay_background
+www.curso-ingles.com###ADB-form1 > .modal-dialog > .modal-content > .modal-header.bluetitle
+www.curso-ingles.com###ADB-form1
+www.curso-ingles.com##.in.fade.modal-backdrop
+www.epicbundle.com##.blog336280tagA > .adsbygoogle
+www.epicbundle.com##.blog336280tagA
+www.epicbundle.com###background-link-left
+www.epicbundle.com###background-link
+www.3djuegos.com##.oh.rdnyvmgtw
+www.3djuegos.com###video_skin
+www.3djuegos.com##.cF.pa.oh
+www.3djuegos.com##.oh.wi100.pa
+www.3djuegos.com###sc-skin-container > div:nth-of-type(3)
+www.3djuegos.com###pie_video
+twitter.com##.rn-1lgpqti.rn-lrvibr.rn-6416eg.rn-o7ynqc.rn-bauka4.rn-bnwqim.rn-1wx0zj.rn-1mdbw0j.rn-1pl8ijs.rn-wk8lta.rn-1dhvaqw.rn-1vuscfd.rn-11wrixw.rn-p1pxzi.rn-61z16t.rn-1mnahxq.rn-ahm1il.rn-eqz5dr.rn-1mlwlqe.rn-1qe8dj5.rn-6koalj.rn-homxoj.rn-deolkf.rn-173myy5.rn-gxnn5r.rn-ndvcnb.rn-fnigne.rn-13yce4e.rn-mm0ijv.rn-rull8r.rn-14skgim.rn-1efd50x.rn-qb5c1y.rn-sqtsar.rn-waaub4.rn-1bxrh7q.rn-1eqmklk.rn-3pxcvb.rn-1iih0mj.rn-1f0fu4f.rn-urgr8i.rn-1oszu61 > .rn-qvutc0.rn-q42fyq.rn-bauka4.rn-q4m81j.rn-gy4na3.rn-1mdbw0j.rn-9aemit.rn-wk8lta.rn-bcqeeo.rn-dnmrzs.rn-11wrixw.rn-p1pxzi.rn-61z16t.rn-1mnahxq.rn-eljoum.rn-1777fci.rn-vw2c0b.rn-ebii48.rn-o11vmf.rn-a023e6.rn-14xgk7a.rn-16y2uox.rn-18u37iz.rn-1mlwlqe.rn-1qe8dj5.rn-6koalj.rn-jwli3a.rn-deolkf.rn-gxnn5r.rn-ndvcnb.rn-fnigne.rn-13yce4e.rn-1awozwy
+twitter.com##.rn-1lgpqti.rn-lrvibr.rn-6416eg.rn-o7ynqc.rn-bauka4.rn-bnwqim.rn-1wx0zj.rn-1mdbw0j.rn-1pl8ijs.rn-wk8lta.rn-1dhvaqw.rn-1vuscfd.rn-11wrixw.rn-p1pxzi.rn-61z16t.rn-1mnahxq.rn-ahm1il.rn-eqz5dr.rn-1mlwlqe.rn-1qe8dj5.rn-6koalj.rn-homxoj.rn-deolkf.rn-173myy5.rn-gxnn5r.rn-ndvcnb.rn-fnigne.rn-13yce4e.rn-mm0ijv.rn-rull8r.rn-14skgim.rn-1efd50x.rn-qb5c1y.rn-sqtsar.rn-waaub4.rn-1bxrh7q.rn-1eqmklk.rn-3pxcvb.rn-1iih0mj.rn-1f0fu4f.rn-urgr8i.rn-1oszu61
+wall.alphacoders.com##.panel-feature.panel-default.panel
+wall.alphacoders.com##div.event-container.panel-body.panel.media:nth-of-type(2)
+wall.alphacoders.com##div.event-container.panel-body.panel.media:nth-of-type(1)
+www.pinterest.cl##div.Hsu.iyn.zI7:nth-of-type(2) > div > .FullPageModal__scroller > div > div > div
+www.pinterest.cl##div.Hsu.iyn.zI7:nth-of-type(2) > div > .FullPageModal__scroller > div > div
+www.pinterest.cl##div.Hsu.iyn.zI7:nth-of-type(2) > div > .FullPageModal__scroller
+www.pinterest.cl##div:nth-of-type(2) > div > div > div > .Hsu.iyn.zI7 > div.Hsu.iyn.zI7:nth-of-type(2) > div
+cheapdigitaldownload.com##.bg-link-left
+cheapdigitaldownload.com##.bg-link-right
+1fichier.com###modal-msg
+1fichier.com##.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
+1fichier.com##.ui-front.ui-widget-overlay
+www.filecrypt.cc##.support_2 > i
+www.promods.net###vik87IaCSLAzLFzkHRRcuWzxsnf9Cw
+www.promods.net##h3
+www.promods.net##h1
+www.promods.net###ePpdZ5s5vNposhxw6RxI0C7SvVXVU3
+www.promods.net###iey3yKgsSIQ5DTbf2E6GCmRVDSgrXa
+www.promods.net###imWoISg1Gop3JsG28003nZ5IPwePMW
+www.promods.net###MgKun3Vl37FH7jz7KXWtwDNoEzT4CD
+www.locurainformaticadigital.com##.nwYKeskMCCGs-default
+www.locurainformaticadigital.com##.nwYKeskMCCGs-bg
+diccionariochileno.cl##.span8 > .alert-error.alert
+diccionariochileno.cl##header > .alert-error.alert
+diccionariochileno.cl##.span4 > .alert-error.alert
+filecrypt.cc##.buttons
+generourbano.com##.banner_23460
+www.spanishdict.com###whitelist-sidebar-template
+pastebin.com###pro_promo_text
+pastebin.com###float-box-3
+ets2map.com##.cc-color-override-89189330.cc-right.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+traffic.krashnz.com##.cc-color-override-59379801.cc-left.cc-bottom.cc-theme-block.cc-type-info.cc-floating.cc-window
+play.los40.com###didomi-notice
+play.los40.com##.cont_webpush
+www.pirate-bay.net##.modal-body
+www.pirate-bay.net###vpnModal
+www.pirate-bay.net##.sidebar-vpn
+1fichier.com###cookie_box
+www.carolina.cl###player-load-more > .modal-head
+www.carolina.cl##.modal-body-selector.modal-body
+www.carolina.cl##.mfp-inline-holder.mfp-s-ready.mfp-container
+www.carolina.cl##.mfp-ready.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
+www.carolina.cl##.mfp-ready.mfp-bg
+pelismega-drive.blogspot.com###WgD
+depositfiles.org##.inner
+9gag.com##.nsfw-post
+www.camwhores.video##[href^="https://mcdlks.com/"]
+www.camwhores.video##body > div:nth-of-type(4) > div:nth-of-type(1)
+www.camwhores.video##body > div:nth-of-type(4)
+userstyles.org##.stylish_logo
+userstyles.org##.body > div:nth-of-type(4)
+userstyles.org##.body
+userstyles.org##.head
+userstyles.org##.footsteps
+userstyles.org##.shadow
+userstyles.org##.NotificationLine
+valor-dolar.cl##.ghmEuB.sc-bdVaJa.no-print > .responsive-skyscraper-valor-dolar > [href="https://tenpo.page.link/DescargaApp"] > video
+valor-dolar.cl##.gsIlGB.sc-bdVaJa.no-print > .responsive-skyscraper-valor-dolar > [href="https://tenpo.page.link/DescargaApp"] > video
+www.locurainformaticadigital.com##.sfyzyfnPFGrb-default
+www.locurainformaticadigital.com##.sfyzyfnPFGrb-bg
+cpanel.epizy.com##.cc_container--open.cc_container.cc_banner
+wpthemify.com##.visible.showSweetAlert.sweet-alert
+wpthemify.com##.sweet-overlay
+userstyles.org##.android_button_button
+www.allkeyshop.com##.bg-link-left
+www.allkeyshop.com##.bg-link-right
+translate.google.cl##.notification-container.tlid-notification-container
+translate.google.cl##.gb_Ad
+translate.google.cl##.gb_na.gb_F
+www.lucidchart.com##.lucid-blue.compact.center
+lovingsiren.com###V9XtffEAuLph8A0xzplodHasZU98HH
+lovingsiren.com###L0OszOjvwWmYVKuvOwubZwUSIwOIMG
+www.storieswatch.com##iframe:nth-of-type(2)
+www.storieswatch.com##.glx-iframe
+oncam.me##p:nth-of-type(1)
+oncam.me###fBsYvoTcMbVXZtaHHPF2BCGObnZsCm
+oncam.me###Yh3UY2nNB1FCv6lDB298YJRPVnu3GU
+||seriesyonkis.org/banner.html$subdocument
+seriesypelisonline.com##span > a[href="https://me-corro.com"]:nth-of-type(1)
+www.descargueloya.com##.pErQeOTleIdx-default
+www.descargueloya.com##.pErQeOTleIdx-bg
+experienciavivo.duoc.cl##.social_widgets
+www.marca.com###banda_suscripcion
+www.freepik.es###sponsor-text
+www.nytimes.com##.dock
+www.nytimes.com##.e1x0szx60.css-3fbowa.expanded-dock.shown.MAG_web_anon_all_monthly-sale-dock
+www.zpaste.net##.uk-animation-shake.uk-column-1-2
+www.latercera.com##.m-top-20.empty
+twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-fxte16.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
+gdrivelatinohd.site##.modal-content
+gdrivelatinohd.site###simpleModal_6
+ark.intel.com##.ot-sdk-container > .ot-sdk-row
+ark.intel.com##.ot-fade-in.onetrust-pc-dark-filter
+www.pajilleros.com##.pj_camList.camsHome
+www.pajilleros.com###iframeFooter > .blockMessage.p-body-inner
+play.los40.com###acceptationCMPWall > .blockNavigation
+play.los40.com###acceptationCMPWall
+
+! Bloqueos de cookies
+www.eneba.com##._38-O82
+www.hispachan.org##.cookies
+www.locurainformaticadigital.com##.cookies-color-override--1762072787.cookies-bottom.cookies-theme-block.cookies-type-info.cookies-banner.cookies-window
+
+! Mensajes por adblock, SocialBlade
+socialblade.com##.cas-wide-container
+socialblade.com##div.cas-container:nth-of-type(1)
+socialblade.com###footer-main-inner-wrap > div:nth-of-type(2) > div > .socialblade-heartbeat > div:nth-of-type(1)
+socialblade.com##div.cas-container:nth-of-type(11)
+socialblade.com##div.index-full:nth-of-type(18) > div:nth-of-type(1) > div > .socialblade-heartbeat > div:nth-of-type(1)
+socialblade.com##div.index-full:nth-of-type(14) > div > div > .socialblade-heartbeat > div:nth-of-type(1)
+socialblade.com##div.index-full:nth-of-type(13) > div > div:nth-of-type(2) > div:nth-of-type(1) > .socialblade-heartbeat > div:nth-of-type(1)
+socialblade.com##div.sidebar-module:nth-of-type(4)
+socialblade.com##div.sidebar-module:nth-of-type(1)
+socialblade.com###socialblade-user-content > div:nth-of-type(1)
+socialblade.com##.section-long-vert-container
+socialblade.com##div.section-container-margin:nth-of-type(13) > .section-leftside > .section-square-vert
+socialblade.com##div.section-container-margin:nth-of-type(11) > .section-leftside > .section-square-vert
+socialblade.com##div:nth-of-type(16) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
+socialblade.com##div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+socialblade.com##div:nth-of-type(18) > div > .socialblade-heartbeat > div:nth-of-type(1)
+socialblade.com##div:nth-of-type(16) > div > div:nth-of-type(1) > div:nth-of-type(1)
+socialblade.com##div:nth-of-type(16) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+
+! Mensajes por adblock, Publicidad - CrackWatch
+crackwatch.com##.presenter
+||https://b2.crackwatch.com/file/crackwatch/uvf538/desktop-residentevil.png$image
+||https://b2.crackwatch.com/file/crackwatch/uvf538/mobile-residentevil.png$image
+! crackwatch.com##div[id]:has(>a span[style*="data:image"])
+crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
+
+! Banner molesto, facebook.com
+es-la.facebook.com###u_0_h
+www.facebook.com###js_20
+www.facebook.com###js_dn
+www.facebook.com###js_1k
+www.facebook.com###js_*
+www.facebook.com###pagelet_marketplace_recently_viewed_rhc > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
+
+! Icono molesto - Twitch Prime
+www.twitch.tv##.tw-relative.prime-offers > .tw-relative > div:nth-of-type(1) > .tw-tooltip-wrapper.tw-relative.tw-inline-flex > div:nth-of-type(1) > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center > .tw-button-icon__icon > div > .tw-inline-flex.tw-icon--fill.tw-icon.tw-full-width.tw-align-items-center > .tw-aspect--align-top.tw-aspect > .tw-icon__svg > g > path
+
+! bloqueando tracking
+https://static.hotjar.com^
+
+! 2021-03-23 https://best.aliexpress.com
+||best.aliexpress.com/undefined$image
+||best.aliexpress.com/undefined$image
+
+! 2021-03-27 https://myaccount.mercadolibre.cl
+myaccount.mercadolibre.cl##.menu-myml-ads__container--desktop.menu-myml-ads__container
