@@ -2,6 +2,7 @@
 ! Description: Filtro general.
 ! Last Modified: 28-05-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
+! Expires: 7 days
 
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Sponsored/)
 ||static.queue-it.net^$script
