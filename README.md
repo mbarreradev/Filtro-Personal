@@ -8,8 +8,8 @@
 
 <p align="center">
   <b>
-  Filtros adiciones en
-  <a href="https://github.com/gorhill/uBlock" target="_blank">uBlock Origin</a>
+  Para usar agregar URL
+  <a href="https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/lista.txt" target="_blank">https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/lista.txt</a>
   </b>
 </p>
 
