@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 28-05-2021
+! Last Modified: 18-06-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 7 days
 
@@ -382,23 +382,8 @@ crackwatch.com##.presenter
 ! crackwatch.com##div[id]:has(>a span[style*="data:image"])
 crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
 
-! Banner molesto, facebook.com
-es-la.facebook.com###u_0_h
-www.facebook.com###js_20
-www.facebook.com###js_dn
-www.facebook.com###js_1k
-www.facebook.com###js_*
-www.facebook.com###pagelet_marketplace_recently_viewed_rhc > ._1-ia > ._4-u8._20os._2tyk._1-ib._4-u2
-
 ! Icono molesto - Twitch Prime
 www.twitch.tv##.tw-relative.prime-offers > .tw-relative > div:nth-of-type(1) > .tw-tooltip-wrapper.tw-relative.tw-inline-flex > div:nth-of-type(1) > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center > .tw-button-icon__icon > div > .tw-inline-flex.tw-icon--fill.tw-icon.tw-full-width.tw-align-items-center > .tw-aspect--align-top.tw-aspect > .tw-icon__svg > g > path
 
 ! bloqueando tracking
 https://static.hotjar.com^
-
-! 2021-03-23 https://best.aliexpress.com
-||best.aliexpress.com/undefined$image
-||best.aliexpress.com/undefined$image
-
-! 2021-03-27 https://myaccount.mercadolibre.cl
-myaccount.mercadolibre.cl##.menu-myml-ads__container--desktop.menu-myml-ads__container
