@@ -1,8 +1,8 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 25-06-2021
+! Last Modified: 29-06-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
-! Expires: 7 days
+! Expires: 4 days
 
 facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Sponsored/)
 ||static.queue-it.net^$script
@@ -107,6 +107,8 @@ https://sc2.darfilms.com^
 https://financialfxclub.com^
 https://blog.maquinadepesas.me^
 https://traficoorganico.cl^
+http://etrecantformation.com^
+https://click.a-ads.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
