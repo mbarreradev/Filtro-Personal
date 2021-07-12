@@ -5,8 +5,9 @@
 ! Expires: 4 days
 
 ||static.queue-it.net^$script
+https://static.hotjar.com^
 
-! Bloqueador de twitch.tv para desbloquear la descarga de vídeos
+! Desbloquear descarga de vídeos - Twitch
 clips.twitch.tv##.player-overlay
 player.twitch.tv##.player-overlay
 
@@ -352,6 +353,9 @@ www.pajilleros.com##.pj_camList.camsHome
 www.pajilleros.com###iframeFooter > .blockMessage.p-body-inner
 play.los40.com###acceptationCMPWall > .blockNavigation
 play.los40.com###acceptationCMPWall
+campusvirtual.duoc.cl##.eesy-tab2-btn-content
+|https://l.facebook.com/l.php$subdocument
+www.twitch.tv##.top-nav__prime
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
@@ -384,12 +388,6 @@ crackwatch.com##.presenter
 ||https://b2.crackwatch.com/file/crackwatch/uvf538/mobile-residentevil.png$image
 ! crackwatch.com##div[id]:has(>a span[style*="data:image"])
 crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
-
-! Icono molesto - Twitch Prime
-www.twitch.tv##.prime-offers.hBZJQK.sc-AxjAm
-
-! bloqueando tracking
-https://static.hotjar.com^
 
 ! Banner sidebar - publicidad https://www.facebook.com
 www.facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
