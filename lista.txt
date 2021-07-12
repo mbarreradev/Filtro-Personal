@@ -1,10 +1,9 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 29-06-2021
+! Last Modified: 11-07-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
-facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Sponsored/)
 ||static.queue-it.net^$script
 
 ! Bloqueador de twitch.tv para desbloquear la descarga de vídeos
@@ -387,7 +386,10 @@ crackwatch.com##.presenter
 crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
 
 ! Icono molesto - Twitch Prime
-www.twitch.tv##.tw-relative.prime-offers > .tw-relative > div:nth-of-type(1) > .tw-tooltip-wrapper.tw-relative.tw-inline-flex > div:nth-of-type(1) > .tw-relative.tw-overflow-hidden.tw-justify-content-center.tw-interactive.tw-inline-flex.tw-core-button.tw-button-icon.tw-border-top-right-radius-medium.tw-border-top-left-radius-medium.tw-border-bottom-right-radius-medium.tw-border-bottom-left-radius-medium.tw-align-middle.tw-align-items-center > .tw-button-icon__icon > div > .tw-inline-flex.tw-icon--fill.tw-icon.tw-full-width.tw-align-items-center > .tw-aspect--align-top.tw-aspect > .tw-icon__svg > g > path
+www.twitch.tv##.prime-offers.hBZJQK.sc-AxjAm
 
 ! bloqueando tracking
 https://static.hotjar.com^
+
+! Banner sidebar - publicidad https://www.facebook.com
+www.facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
