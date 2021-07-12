@@ -128,6 +128,7 @@ rcriparazionielettrodomestici.it^
 http://143.198.58.78^
 http://demo.exent.it^
 http://treasuredmemoriesportraits.com^
+http://verifychocolate.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
