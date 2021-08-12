@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 11-07-2021
+! Last Modified: 11-08-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -112,6 +112,12 @@ https://click.a-ads.com^
 http://boughtinvulnerablenothing.com^
 https://premiumbros.com^
 https://beastbuying.com^
+http://barnabaslinger.com^
+https://snow.snowdayonline.xyz^
+https://facilitategovernor.com^
+https://netu.wiztube.xyz^
+https://totaltopfeed.com^
+https://kogutcho.net^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
