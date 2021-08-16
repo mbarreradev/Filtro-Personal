@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 11-08-2021
+! Last Modified: 16-08-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -118,6 +118,11 @@ https://facilitategovernor.com^
 https://netu.wiztube.xyz^
 https://totaltopfeed.com^
 https://kogutcho.net^
+https://ponk.pro^
+https://hqq.to^
+https://verpelis-hd.com^
+https://ver.gratis^
+https://fulltv.com.mx^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
