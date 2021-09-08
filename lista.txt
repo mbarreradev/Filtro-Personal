@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 16-08-2021
+! Last Modified: 08-09-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -123,6 +123,8 @@ hqq.to^
 verpelis-hd.com^
 ver.gratis^
 fulltv.com.mx^
+https://bit.ly/39v9heL^
+https://pautamp3.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
