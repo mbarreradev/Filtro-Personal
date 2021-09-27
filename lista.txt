@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 08-09-2021
+! Last Modified: 26-09-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -145,6 +145,7 @@ http://143.198.58.78^
 http://demo.exent.it^
 http://treasuredmemoriesportraits.com^
 http://verifychocolate.com^
+https://appcloud-center.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
