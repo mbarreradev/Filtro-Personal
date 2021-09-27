@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 26-09-2021
+! Last Modified: 27-09-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -146,6 +146,8 @@ http://demo.exent.it^
 http://treasuredmemoriesportraits.com^
 http://verifychocolate.com^
 https://appcloud-center.com^
+https://pautamp3.com^
+https://bit.ly/39v9heL^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -209,11 +211,13 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||image.prntscr.com/image/evF2k_H3TGK5X7s98Iuzlg.gif$image
 ||www.compucalitv.com/wp-content/themes/Academy/images/wot-930-180.webp$image
 ||userstyles.org/ui/images/icons/close-icon.svg$image
-||www.allkeyshop.com/blog/wp-content/uploads/background.webp?v=1590134687$image
 ||www.allkeyshop.com/blog/wp-content/themes/aks-theme/assets/image/gleam/allkeyshop.com/gleam-banner.jpg$image
+||www.allkeyshop.com/blog/wp-content/uploads/*$image
+||cheapdigitaldownload.com/wp-content/uploads/CDD-Banner-PS5-2-Win.jpg$image
 ||www.zona-leros.net/storage/cover_store/am9-store-hvp.jpg$image
 ||gdrivelatinohd.site/wp-content/uploads/2020/11/cupones-mega.jpg$image
 ||seriesypelisonline.com/wp-content/uploads/2020/04/me-corro.png$image
+||www.winpy.cl/images/20210713-lateral-office.jpg$image
 
 ! Banners molestos
 www.xataka.com###cookies-overlay
@@ -374,6 +378,9 @@ play.los40.com###acceptationCMPWall
 campusvirtual.duoc.cl##.eesy-tab2-btn-content
 |https://l.facebook.com/l.php$subdocument
 www.twitch.tv##.top-nav__prime
+www.allkeyshop.com##.feature-banner
+www.allkeyshop.com##.banner-side
+www.winpy.cl##.Santander.barraSuperior > .content
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
