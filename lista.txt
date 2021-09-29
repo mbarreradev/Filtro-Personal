@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 27-09-2021
+! Last Modified: 29-09-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -14,7 +14,7 @@ player.twitch.tv##.player-overlay
 ! Bloqueador de Discord en TruckersMP Settings
 ||discordapp.com/widget$subdocument
 
-! Páginas sospechosas, publicidad
+! Páginas publicidad
 http://satplate.ru^
 http://www.kinotuta.ru^
 http://kvath.kinotuta.ru^
@@ -125,6 +125,12 @@ ver.gratis^
 fulltv.com.mx^
 https://bit.ly/39v9heL^
 https://pautamp3.com^
+https://www.cpmprofitablenetwork.com^
+https://bemachopor.com^
+http://slippersferry.com^
+https://fobogruca.com^
+http://shoveoccupiedinsult.com^
+http://frolicpan.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -148,6 +154,8 @@ http://verifychocolate.com^
 https://appcloud-center.com^
 https://pautamp3.com^
 https://bit.ly/39v9heL^
+https://recommended-updates.com^
+https://systemupdatesy.life^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
