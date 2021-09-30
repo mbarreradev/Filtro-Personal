@@ -228,7 +228,6 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||www.winpy.cl/images/20210713-lateral-office.jpg$image
 
 ! Banners molestos
-! www.twitch.tv##.top-nav__prime
 www.xataka.com###cookies-overlay
 www.chevrolet.cl###AgentAppContainer
 emagtrends.com###icegram_message_9898 > .ig_content
