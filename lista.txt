@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 29-09-2021
+! Last Modified: 30-09-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -228,6 +228,7 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||www.winpy.cl/images/20210713-lateral-office.jpg$image
 
 ! Banners molestos
+! www.twitch.tv##.top-nav__prime
 www.xataka.com###cookies-overlay
 www.chevrolet.cl###AgentAppContainer
 emagtrends.com###icegram_message_9898 > .ig_content
@@ -385,7 +386,7 @@ play.los40.com###acceptationCMPWall > .blockNavigation
 play.los40.com###acceptationCMPWall
 campusvirtual.duoc.cl##.eesy-tab2-btn-content
 |https://l.facebook.com/l.php$subdocument
-www.twitch.tv##.top-nav__prime
+
 www.allkeyshop.com##.feature-banner
 www.allkeyshop.com##.banner-side
 www.winpy.cl##.Santander.barraSuperior > .content
