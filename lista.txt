@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 30-09-2021
+! Last Modified: 06-10-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -131,6 +131,7 @@ http://slippersferry.com^
 https://fobogruca.com^
 http://shoveoccupiedinsult.com^
 http://frolicpan.com^
+https://significadoconcepto.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -385,15 +386,22 @@ play.los40.com###acceptationCMPWall > .blockNavigation
 play.los40.com###acceptationCMPWall
 campusvirtual.duoc.cl##.eesy-tab2-btn-content
 |https://l.facebook.com/l.php$subdocument
-
 www.allkeyshop.com##.feature-banner
 www.allkeyshop.com##.banner-side
 www.winpy.cl##.Santander.barraSuperior > .content
+cheapdigitaldownload.com##.feature-banner
+allcalidad.la###barraPlus1
+www.cuevana-3.wtf##[href="https://t.me/joinchat/j8Gdbmrp8Xo0Y2Mx"] > .loaded.lazy
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
 www.hispachan.org##.cookies
 www.locurainformaticadigital.com##.cookies-color-override--1762072787.cookies-bottom.cookies-theme-block.cookies-type-info.cookies-banner.cookies-window
+pivigames.blog###cookie-law-info-bar
+www.vidaextra.com##.cookies-overlay
+www.changan.cl##.cookies-wrapper
+www.correos.cl###js_barra_aceptacion_cookie
+www.vg247.com###onetrust-consent-sdk
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
