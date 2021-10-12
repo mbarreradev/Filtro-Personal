@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 06-10-2021
+! Last Modified: 12-10-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -132,6 +132,16 @@ https://fobogruca.com^
 http://shoveoccupiedinsult.com^
 http://frolicpan.com^
 https://significadoconcepto.com^
+wpadmngr.com^
+cpmgatenetwork.com^
+8a78031439.com^
+caradstag.casa^
+causedkno.space^
+d24ak3f2b.top^
+d2j042cj1421wi.cloudfront.net^
+duetgypsyantis.com^
+eiteratebef.top^
+fqvvgjvjn.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -157,6 +167,10 @@ https://pautamp3.com^
 https://bit.ly/39v9heL^
 https://recommended-updates.com^
 https://systemupdatesy.life^
+https://www.lbank.info^
+https://c.bushcash.xyz^
+https://bushcash.xyz^
+https://uhzjdfpccxtne.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -392,6 +406,7 @@ www.winpy.cl##.Santander.barraSuperior > .content
 cheapdigitaldownload.com##.feature-banner
 allcalidad.la###barraPlus1
 www.cuevana-3.wtf##[href="https://t.me/joinchat/j8Gdbmrp8Xo0Y2Mx"] > .loaded.lazy
+articulo.mercadolibre.cl##.pads-right-mshops__footer
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
@@ -402,6 +417,8 @@ www.vidaextra.com##.cookies-overlay
 www.changan.cl##.cookies-wrapper
 www.correos.cl###js_barra_aceptacion_cookie
 www.vg247.com###onetrust-consent-sdk
+www.vg247.com##.ot-sdk-container
+www.vg247.com##.ot-fade-in.onetrust-pc-dark-filter
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
