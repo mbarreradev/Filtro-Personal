@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 18-10-2021
+! Last Modified: 21-10-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -146,6 +146,9 @@ gfpplflrif.com^
 https://doubleadserve.com^
 https://touroumu.com^
 https://ginzogwine.casa^
+taxzcqghel.com^
+cc29bca73b.com^
+phapihwvah.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
