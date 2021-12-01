@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 21-10-2021
+! Last Modified: 01-12-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -149,6 +149,17 @@ https://ginzogwine.casa^
 taxzcqghel.com^
 cc29bca73b.com^
 phapihwvah.com^
+luwqklsrtzbpcd.com^
+3000f4e548.com^
+antiadblocksystems.com^
+jads.co^
+https://pwieu.com^
+https://jeperm.com^
+wxhiojortldjyegtkx.bid^
+
+! Páginas molestas
+https://www.codegrepper.com^
+https://www.tabnine.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -416,6 +427,8 @@ cheapdigitaldownload.com##.feature-banner
 allcalidad.la###barraPlus1
 www.cuevana-3.wtf##[href="https://t.me/joinchat/j8Gdbmrp8Xo0Y2Mx"] > .loaded.lazy
 articulo.mercadolibre.cl##.pads-right-mshops__footer
+www.eneba.com##.oVRXv6
+www.eneba.com##.XZCFUI.iIDB6t
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
