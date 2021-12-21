@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 01-12-2021
+! Last Modified: 21-12-2021
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -156,6 +156,11 @@ jads.co^
 https://pwieu.com^
 https://jeperm.com^
 wxhiojortldjyegtkx.bid^
+adsco.re^
+adcdnx.com^
+3e41501a36.com^
+batteusp2hilenor.com^
+rccsekuitas.com^
 
 ! Páginas molestas
 https://www.codegrepper.com^
