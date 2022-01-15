@@ -1,7 +1,7 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
 ! Last Modified: 15-01-2022
-! Homepage: https://github.com/MariioCL/Lista-Personal
+! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 4 days
 
 ||static.queue-it.net^$script
