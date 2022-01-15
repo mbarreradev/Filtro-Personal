@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro general.
-! Last Modified: 21-12-2021
+! Last Modified: 15-01-2022
 ! Homepage: https://github.com/MariioCL/Lista-Personal
 ! Expires: 4 days
 
@@ -161,10 +161,17 @@ adcdnx.com^
 3e41501a36.com^
 batteusp2hilenor.com^
 rccsekuitas.com^
+https://dtre.space^
+https://www.dafabet.com^
+jxqkiqpvg.com^
+hloprhawmswdb.com^
 
 ! Páginas molestas
 https://www.codegrepper.com^
 https://www.tabnine.com^
+https://pervertgirlsvideos.com/wp-content/plugins/deblocker/js/ads.min.js?ver=3.1.2^
+https://takefile.link^
+https://4k-hdpelicula.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -266,6 +273,9 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||gdrivelatinohd.site/wp-content/uploads/2020/11/cupones-mega.jpg$image
 ||seriesypelisonline.com/wp-content/uploads/2020/04/me-corro.png$image
 ||www.winpy.cl/images/20210713-lateral-office.jpg$image
+||cinecalidad.la/wp-content/uploads/2021/12/190-x-110.jpg$image
+||cinecalidad.la/wp-content/uploads/2021/12/128-x-90.jpg$image
+||iir.ai/webroot/modern_theme/img/dwndbnr1.png$image
 
 ! Banners molestos
 www.xataka.com###cookies-overlay
@@ -434,6 +444,9 @@ www.cuevana-3.wtf##[href="https://t.me/joinchat/j8Gdbmrp8Xo0Y2Mx"] > .loaded.laz
 articulo.mercadolibre.cl##.pads-right-mshops__footer
 www.eneba.com##.oVRXv6
 www.eneba.com##.XZCFUI.iIDB6t
+linkvertise.com##.ng-star-inserted.col-xxl-4.col-xl-12.content-right
+linkvertise.com##.ng-star-inserted.suggestions
+linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
