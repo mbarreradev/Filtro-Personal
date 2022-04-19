@@ -15,6 +15,8 @@ player.twitch.tv##.player-overlay
 ||discordapp.com/widget$subdocument
 
 ! Páginas publicidad
+https://vmjmpwdupi.com^
+https://vgjdxwdyygreva.com^
 http://satplate.ru^
 http://www.kinotuta.ru^
 http://kvath.kinotuta.ru^
@@ -178,6 +180,8 @@ https://imovie.uno^
 https://flixer.xyz^
 https://repelisplus.ac^
 https://cuevana4k.net^
+https://repelisplus.sh^
+https://ver.repelisgo.club^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -285,6 +289,11 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||iir.ai/webroot/modern_theme/img/dwndbnr1.png$image
 
 ! Banners molestos
+cheapdigitaldownload.com##.background-link-left
+cheapdigitaldownload.com##.background-link-right
+terraria.wiki.gg##.header-img
+terraria.wiki.gg##.games-showcase-sidebar
+terraria.wiki.gg##.footer-img
 www.xataka.com###cookies-overlay
 www.chevrolet.cl###AgentAppContainer
 emagtrends.com###icegram_message_9898 > .ig_content
