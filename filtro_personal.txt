@@ -1,8 +1,8 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 15-01-2022
+! Last Modified: 19-04-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
-! Expires: 4 days
+! Expires: 7 days
 
 ||static.queue-it.net^$script
 https://static.hotjar.com^
@@ -172,6 +172,12 @@ https://www.tabnine.com^
 https://pervertgirlsvideos.com/wp-content/plugins/deblocker/js/ads.min.js?ver=3.1.2^
 https://takefile.link^
 https://4k-hdpelicula.com^
+https://cuevana.cx^
+https://www.cinecalidad.movie^
+https://imovie.uno^
+https://flixer.xyz^
+https://repelisplus.ac^
+https://cuevana4k.net^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -210,6 +216,7 @@ https://www.hostingcloud.racing
 
 ! Imagenes publicidad
 ||www.hentai-id.tv/wp-content/themes/moviescript/assets/img/04.jpg$image
+||allcalidad.is/wp-content/uploads/2021/12/website-02-scaled.jpg$image
 ||pivigames.blog/wp-content/uploads/2018/06/apoyo.png$image
 ||pivigames.blog/wp-content/uploads/2018/06/banner-xess-pro-300x250.jpg$image
 ||rltracker.pro/assets/patreon_new-2a20df181679954ee5b9dbc228058bccef69d284bc9f4dc2c78c449e3e5265d3.png$image
@@ -447,6 +454,8 @@ www.eneba.com##.XZCFUI.iIDB6t
 linkvertise.com##.ng-star-inserted.col-xxl-4.col-xl-12.content-right
 linkvertise.com##.ng-star-inserted.suggestions
 linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
+www2.javhdporn.net##.sidebar-ads
+socialblade.com##.index-full.global-notification
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
