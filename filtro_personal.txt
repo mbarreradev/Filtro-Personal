@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 19-04-2022
+! Last Modified: 15-05-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
@@ -182,6 +182,8 @@ https://repelisplus.ac^
 https://cuevana4k.net^
 https://repelisplus.sh^
 https://ver.repelisgo.club^
+https://full.video^
+https://www.fulltv.com.ar^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -236,6 +238,8 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||www.sexy-youtubers.com/gotoback.php*$image
 ||cheapdigitaldownload.com/wp-content/uploads/Red-Dead-ENG-1.jpg$image
 ||zlshorte.net/301.html$subdocument
+||www.hispasexy.org/buttons/telelatino.gif$image
+||elchapuzasinformatico.com/wp-content/uploads/2022/05/MSI-Intel-Evo.jpg%22$image
 ||lolnada.org/exnb/exbbll.php*$image
 ||reblop.com/video/wp-content/uploads/2019/08/008325A_JRKM_18_ALL_EN_71_L.gif$image
 ||www.erome.com/35.php*$image
@@ -465,6 +469,7 @@ linkvertise.com##.ng-star-inserted.suggestions
 linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-background
 www2.javhdporn.net##.sidebar-ads
 socialblade.com##.index-full.global-notification
+www.twitch.tv##.kJHXRx.Layout-sc-nxg1ff-0
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
