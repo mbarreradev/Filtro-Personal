@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 15-05-2022
+! Last Modified: 19-06-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
@@ -215,6 +215,13 @@ https://bushcash.xyz^
 https://uhzjdfpccxtne.com^
 http://scannapp.xyz^
 https://clldirect.club^
+https://costarricenses.cr^
+https://dvdripeando.com^
+https://repelisplus2.io^
+https://pelis-pedia.me^
+https://cuevana-3.to^
+https://cuevana3.gg^
+https://cuevana2.la^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -235,6 +242,9 @@ https://www.hostingcloud.racing
 https://filecrypt.cc/images/jkh324kjh.png$image
 ||upera.co/img/maghzha/maghzha32.jpg$image
 ||upera.co/img/maghzha/maghzha94.jpg$image
+||www.hispasexy.org/buttons/banner728.gif$image
+||zap-cdn.com/interface/_images/banner/gameserver/fivem-affiliate-banner-1006x180.png$image
+||ww4.cinecalidad.do/wp-content/themes/dpelis/assets/img/telegram.svg$image
 ||www.sexy-youtubers.com/gotoback.php*$image
 ||cheapdigitaldownload.com/wp-content/uploads/Red-Dead-ENG-1.jpg$image
 ||zlshorte.net/301.html$subdocument
