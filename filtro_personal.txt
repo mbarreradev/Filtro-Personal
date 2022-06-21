@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 19-06-2022
+! Last Modified: 21-06-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
@@ -232,6 +232,9 @@ https://www.hostingcloud.racing
 ||allcalidad.is/wp-content/uploads/2021/12/website-02-scaled.jpg$image
 ||pivigames.blog/wp-content/uploads/2018/06/apoyo.png$image
 ||pivigames.blog/wp-content/uploads/2018/06/banner-xess-pro-300x250.jpg$image
+||ww4.cinecalidad.do/wp-content/uploads/2021/12/190-x-110.jpg$image
+||ww4.cinecalidad.do/wp-content/uploads/2021/12/Netflix-728x90as.png$image
+||ww4.cinecalidad.do/wp-content/uploads/2022/01/33478b4f-cb55-4781-8d24-aa464b192fa8.jpg$image
 ||rltracker.pro/assets/patreon_new-2a20df181679954ee5b9dbc228058bccef69d284bc9f4dc2c78c449e3e5265d3.png$image
 ||4.bp.blogspot.com/-nFEgK-6fMPg/WjSFvos-GrI/AAAAAAAAoS8/s--fPbocBUMjBHpTSSD6Q7KQf2FWLuXiwCLcBGAs/s1600/uploaded.png$image
 ||jcp.mobi/images/download_pelis.png$image
@@ -304,6 +307,7 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||iir.ai/webroot/modern_theme/img/dwndbnr1.png$image
 
 ! Banners molestos
+www.tarreo.com##.embedVideo
 cheapdigitaldownload.com##.background-link-left
 cheapdigitaldownload.com##.background-link-right
 terraria.wiki.gg##.header-img
