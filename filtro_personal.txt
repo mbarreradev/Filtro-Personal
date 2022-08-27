@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 08-07-2022
+! Last Modified: 27-08-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
@@ -190,6 +190,13 @@ https://repelisplus.sh^
 https://ver.repelisgo.club^
 https://full.video^
 https://www.fulltv.com.ar^
+https://download-final-step.com^
+https://xnlyfanx.com^
+https://www.xvideosdownload.net^
+https://fansviewer.net^
+https://leaksio.com^
+https://only4leaked.co^
+https://ofleaksdaily.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
