@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 27-08-2022
+! Last Modified: 16-10-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
@@ -503,6 +503,19 @@ linkvertise.com###advertise-block > lv-redirect-body-ad-opera > .opera-backgroun
 www2.javhdporn.net##.sidebar-ads
 socialblade.com##.index-full.global-notification
 www.twitch.tv##.kJHXRx.Layout-sc-nxg1ff-0
+es.scribd.com##.wrapper__primary_navigation > .GridContainer-module_wrapper__7Rx6L
+es.scribd.com##.wrapper__primary_navigation
+es.pngtree.com##.action-entrance.check-login-js.hue-js.stylus-aside-link
+es.pngtree.com##li.side-help-center:nth-of-type(1)
+es.pngtree.com##.visible.xs-hide.show-3cnt-parent._ncp-bottom-fixed.stylus-banner-fixed.stylus-banner > .action-entrance.hue-js.stylus-link
+es.pngtree.com##.side-follow
+es.pngtree.com##.hue-js.side-affiliate-entrance > [href="/affiliate-program"]
+es.pngtree.com##.side-follow-close
+es.pngtree.com##.xs-hide._ncp-header.stylus-banner-top.stylus-banner > .action-entrance.hue-js.stylus-link
+es.pngtree.com##._ncp-side.xs-hide.stylus-aside
+es.pngtree.com##.renew-pop-main
+es.pngtree.com##.w1520._ncp-bottom.xs-hide.stylus-banner-art.stylus-banner > .action-entrance.hue-js.stylus-link
+es.pngtree.com##.hue-js.Premium-effects
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
