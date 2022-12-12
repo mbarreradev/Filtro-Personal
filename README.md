@@ -9,7 +9,7 @@
 <p align="center">
   <b>
   Para usar agregar URL
-  <a href="https://raw.githubusercontent.com/clmbarrera/Filtro-Personal/main/filtro_personal.txt" target="_blank">https://raw.githubusercontent.com/clmbarrera/Filtro-Personal/main/filtro_personal.txt</a>
+  <a href="https://raw.githubusercontent.com/mbarreradev/Filtro-Personal/main/filtro_personal.txt" target="_blank">https://raw.githubusercontent.com/mbarreradev/Filtro-Personal/main/filtro_personal.txt</a>
   </b>
 </p>
 
