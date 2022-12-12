@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 16-10-2022
+! Last Modified: 12-12-2022
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
@@ -197,6 +197,7 @@ https://fansviewer.net^
 https://leaksio.com^
 https://only4leaked.co^
 https://ofleaksdaily.com^
+https://repelis-hd.com^
 
 ! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
@@ -516,6 +517,8 @@ es.pngtree.com##._ncp-side.xs-hide.stylus-aside
 es.pngtree.com##.renew-pop-main
 es.pngtree.com##.w1520._ncp-bottom.xs-hide.stylus-banner-art.stylus-banner > .action-entrance.hue-js.stylus-link
 es.pngtree.com##.hue-js.Premium-effects
+www.xataka.com.mx##.base-asset-video
+www.facebook.com##.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x8du52y.x1164lod.x1yc453h.x1i64zmx.xat24cr.x1emribx.xdj266r.xjb2p0i.x1ypdohk.x1o6z2jb.x1i1ezom.x1otrzb0.xhk9q7s.xav7gou.xaqea5y.x1b1mbwd.x6umtig.x78zum5
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
