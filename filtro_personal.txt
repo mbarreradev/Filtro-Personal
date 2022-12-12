@@ -14,7 +14,7 @@ player.twitch.tv##.player-overlay
 ! Bloqueador de Discord en TruckersMP Settings
 ||discordapp.com/widget$subdocument
 
-! Páginas publicidad
+! Páginas publicidad, molestas y Páginas con virus, no desbloquear
 https://frgwf.comfortykive.xyz^
 https://clubfiletyc.com^
 https://speednetpc.com^
@@ -173,8 +173,6 @@ https://dtre.space^
 https://www.dafabet.com^
 jxqkiqpvg.com^
 hloprhawmswdb.com^
-
-! Páginas molestas
 https://www.codegrepper.com^
 https://www.tabnine.com^
 https://pervertgirlsvideos.com/wp-content/plugins/deblocker/js/ads.min.js?ver=3.1.2^
@@ -198,8 +196,6 @@ https://leaksio.com^
 https://only4leaked.co^
 https://ofleaksdaily.com^
 https://repelis-hd.com^
-
-! Páginas con virus, no desbloquear
 https://wordquatdelas.gq^
 https://skidrowcodex.co^
 webminepool.com^
@@ -236,6 +232,13 @@ https://pelis-pedia.me^
 https://cuevana-3.to^
 https://cuevana3.gg^
 https://cuevana2.la^
+https://thotsfan.com^
+https://fapello-leaks.com^
+https://erothots.co^
+https://leaked4fans.com^
+https://leakedfan.com^
+https://sexy-egirls-leaked.com^
+https://only4leaked.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -519,6 +522,15 @@ es.pngtree.com##.w1520._ncp-bottom.xs-hide.stylus-banner-art.stylus-banner > .ac
 es.pngtree.com##.hue-js.Premium-effects
 www.xataka.com.mx##.base-asset-video
 www.facebook.com##.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x8du52y.x1164lod.x1yc453h.x1i64zmx.xat24cr.x1emribx.xdj266r.xjb2p0i.x1ypdohk.x1o6z2jb.x1i1ezom.x1otrzb0.xhk9q7s.xav7gou.xaqea5y.x1b1mbwd.x6umtig.x78zum5
+es.pngtree.com##div.nav-pricing-wrap:nth-of-type(1)
+www.reddit.com##shreddit-experience-tree
+www.reddit.com##xpromo-top-button
+www.reddit.com##.scroll-is-blocked:style(overflow: visible !important)
+www.reddit.com##.m-animated.XPromoBlockingModal__content
+www.reddit.com##.m-animated.XPromoBlockingModal__overlay
+es.pngtree.com##.astro-TWK3QDZJ.renew-coupons-dialog.ui-dialog-open.ui-dialog.firster-dialog-div.origin-center.overflow-y-auto.overflow-x-hidden.py-3.px-2.justify-center.items-center.flex.z-30.inset-0.fixed
+es.pngtree.com##.coupon-a-area.coupon-area > .tkw-window
+www.kia.com##.vertical-align-content.ot-wo-title.default.otCenterRounded
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
@@ -531,6 +543,8 @@ www.correos.cl###js_barra_aceptacion_cookie
 www.vg247.com###onetrust-consent-sdk
 www.vg247.com##.ot-sdk-container
 www.vg247.com##.ot-fade-in.onetrust-pc-dark-filter
+www.suzuki.cl##.cookies-wrapper
+www.greatwall.cl##.cookies-wrapper
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
