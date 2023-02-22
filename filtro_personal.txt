@@ -1,11 +1,15 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 12-12-2022
+! Last Modified: 22-02-2023
 ! Homepage: https://github.com/MariioCL/Filtro-Personal
 ! Expires: 7 days
 
 ||static.queue-it.net^$script
 https://static.hotjar.com^
+
+! Publicidad en el player de tvn.cl
+mdstrm.com###more-info-ads
+mdstrm.com###more-info-ads-overlay
 
 ! Desbloquear descarga de vídeos - Twitch
 clips.twitch.tv##.player-overlay
@@ -531,6 +535,8 @@ www.reddit.com##.m-animated.XPromoBlockingModal__overlay
 es.pngtree.com##.astro-TWK3QDZJ.renew-coupons-dialog.ui-dialog-open.ui-dialog.firster-dialog-div.origin-center.overflow-y-auto.overflow-x-hidden.py-3.px-2.justify-center.items-center.flex.z-30.inset-0.fixed
 es.pngtree.com##.coupon-a-area.coupon-area > .tkw-window
 www.kia.com##.vertical-align-content.ot-wo-title.default.otCenterRounded
+commentpicker.com##.no-print.premium-banner
+my.eneba.com##.D1hrTz
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
@@ -544,6 +550,7 @@ www.vg247.com###onetrust-consent-sdk
 www.vg247.com##.ot-sdk-container
 www.vg247.com##.ot-fade-in.onetrust-pc-dark-filter
 www.suzuki.cl##.cookies-wrapper
+www.autoplanet.cl##.ng-star-inserted.cookies-height-w.cookies-wrapper
 www.greatwall.cl##.cookies-wrapper
 
 ! Mensajes por adblock, SocialBlade
