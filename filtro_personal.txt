@@ -1,7 +1,7 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 22-02-2023
-! Homepage: https://github.com/MariioCL/Filtro-Personal
+! Last Modified: 11-03-2023
+! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
 ||static.queue-it.net^$script
@@ -18,7 +18,7 @@ player.twitch.tv##.player-overlay
 ! Bloqueador de Discord en TruckersMP Settings
 ||discordapp.com/widget$subdocument
 
-! Páginas publicidad, molestas y Páginas con virus, no desbloquear
+! Páginas publicidad, molestas y con virus, no desbloquear
 https://frgwf.comfortykive.xyz^
 https://clubfiletyc.com^
 https://speednetpc.com^
@@ -243,6 +243,9 @@ https://leaked4fans.com^
 https://leakedfan.com^
 https://sexy-egirls-leaked.com^
 https://only4leaked.com^
+https://www.bitget.com^
+https://www.coinstore.com^
+wdeyuqjmlsl.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
