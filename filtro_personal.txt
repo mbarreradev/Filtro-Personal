@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 11-03-2023
+! Last Modified: 14-03-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -540,6 +540,8 @@ es.pngtree.com##.coupon-a-area.coupon-area > .tkw-window
 www.kia.com##.vertical-align-content.ot-wo-title.default.otCenterRounded
 commentpicker.com##.no-print.premium-banner
 my.eneba.com##.D1hrTz
+www.mega.cl##.top-bnr-wrap.bnr-wrap
+www.twitch.tv###twilight-sticky-footer-root
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
@@ -555,6 +557,8 @@ www.vg247.com##.ot-fade-in.onetrust-pc-dark-filter
 www.suzuki.cl##.cookies-wrapper
 www.autoplanet.cl##.ng-star-inserted.cookies-height-w.cookies-wrapper
 www.greatwall.cl##.cookies-wrapper
+www.kia.com###cookie_notice
+www.kia.cl##.d-none.alert-cookie
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
