@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 14-03-2023
+! Last Modified: 26-03-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -246,6 +246,9 @@ https://only4leaked.com^
 https://www.bitget.com^
 https://www.coinstore.com^
 wdeyuqjmlsl.com^
+https://charmingdatings.life^
+https://erothots.co^
+https://www.addthis.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -559,6 +562,10 @@ www.autoplanet.cl##.ng-star-inserted.cookies-height-w.cookies-wrapper
 www.greatwall.cl##.cookies-wrapper
 www.kia.com###cookie_notice
 www.kia.cl##.d-none.alert-cookie
+www.vg247.com###onetrust-consent-sdk
+www.twitch.tv###twilight-sticky-footer-root
+tntsports.cl##.ot-fade-in.onetrust-pc-dark-filter
+tntsports.cl###onetrust-consent-sdk
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
