@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 26-03-2023
+! Last Modified: 14-04-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -545,6 +545,7 @@ commentpicker.com##.no-print.premium-banner
 my.eneba.com##.D1hrTz
 www.mega.cl##.top-bnr-wrap.bnr-wrap
 www.twitch.tv###twilight-sticky-footer-root
+www.zona-leros.com##.store_text
 
 ! Bloqueos de cookies
 www.eneba.com##._38-O82
