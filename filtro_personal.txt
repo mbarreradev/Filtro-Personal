@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 14-04-2023
+! Last Modified: 24-04-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -192,6 +192,7 @@ https://repelisplus.sh^
 https://ver.repelisgo.club^
 https://full.video^
 https://www.fulltv.com.ar^
+http://www.xxxporn123.com^
 https://download-final-step.com^
 https://xnlyfanx.com^
 https://www.xvideosdownload.net^
@@ -296,6 +297,8 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
 ||www.filecrypt.cc/blob/ugh4enroc.png$image
 ||www.youngleak.com/app.php*$image
+||igg-games.com/wp-content/uploads/2023/04/photo1680694209.jpeg$image
+||cinecalidad3.io/resize/1720/storage/22286/HOnlnnXir6g1dPNnhqXDh5zPRsAnoiW3Q9Wu2usE.jpg$image
 ||www.youngleak.com/sublogo.png$image
 ||videos.youngleak.com/ba_er.php*$image
 ||userstyles.org/ui/images/280x294.png$image
@@ -416,6 +419,9 @@ cheapdigitaldownload.com##.bg-link-right
 1fichier.com##.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
 1fichier.com##.ui-front.ui-widget-overlay
 www.filecrypt.cc##.support_2 > i
+www.zona-leros.com##.content_store
+www.erome.com###bubble
+discord.com##.withTagAsButton-OsgQ9L.avatarWrapper-1B9FTW
 www.promods.net###vik87IaCSLAzLFzkHRRcuWzxsnf9Cw
 www.promods.net##h3
 www.promods.net##h1
