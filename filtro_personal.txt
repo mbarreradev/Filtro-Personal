@@ -344,6 +344,35 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||cinecalidad.la/wp-content/uploads/2021/12/128-x-90.jpg$image
 ||iir.ai/webroot/modern_theme/img/dwndbnr1.png$image
 
+! Bloqueos de cookies
+www.hispachan.org##.cookies
+www.locurainformaticadigital.com##.cookies-color-override--1762072787.cookies-bottom.cookies-theme-block.cookies-type-info.cookies-banner.cookies-window
+pivigames.blog###cookie-law-info-bar
+www.vidaextra.com##.cookies-overlay
+www.correos.cl###js_barra_aceptacion_cookie
+www.vg247.com###onetrust-consent-sdk
+www.vg247.com##.ot-sdk-container
+www.vg247.com##.ot-fade-in.onetrust-pc-dark-filter
+www.changan.cl##.cookies-wrapper
+www.suzuki.cl##.cookies-wrapper
+www.autoplanet.cl##.ng-star-inserted.cookies-height-w.cookies-wrapper
+www.greatwall.cl##.cookies-wrapper
+www.kia.com###cookie_notice
+www.kia.cl##.d-none.alert-cookie
+www.skoda.cl##.ot-fade-in.onetrust-pc-dark-filter
+www.skoda.cl##.vertical-align-content.ot-wo-title.default.otRelFont.otChoicesBnr
+www.bmw.cl##epaas-consent-drawer-shell
+www.citroen.cl###_psaihm_main_div
+www.citroen.cl###_psaihm_overlay
+www.vg247.com###onetrust-consent-sdk
+www.twitch.tv###twilight-sticky-footer-root
+tntsports.cl##.ot-fade-in.onetrust-pc-dark-filter
+tntsports.cl###onetrust-consent-sdk
+www.xataka.com###cookies-overlay
+www.greenmangaming.com##.padd_it.privacy_prompt_content
+www.3djuegos.com##.cookies-overlay
+www.genbeta.com##.cookies-overlay
+
 ! Banners molestos
 free-proxy-list.net##.rollIn.animated.dark.alert-fpl.alert.col-xs-11.hidden-xs
 free-proxy-list.net##div.rollIn.animated.alert-fpl.alert.col-xs-11.hidden-xs:nth-of-type(2)
@@ -355,7 +384,6 @@ cheapdigitaldownload.com##.background-link-right
 terraria.wiki.gg##.header-img
 terraria.wiki.gg##.games-showcase-sidebar
 terraria.wiki.gg##.footer-img
-www.xataka.com###cookies-overlay
 www.chevrolet.cl###AgentAppContainer
 emagtrends.com###icegram_message_9898 > .ig_content
 emagtrends.com##.ig_clear_fix.ig_content
@@ -409,7 +437,6 @@ nitroflare.com###superbox-container
 nitroflare.com###superbox-wrapper
 nitroflare.com###superbox-overlay
 www.g2a.com##.hIkGWg.modalstyle__Modal-sc-ui2nvy-0
-www.greenmangaming.com##.padd_it.privacy_prompt_content
 www.greenmangaming.com###usp-header
 www.3djuegos.com##.oh.rdnyvmgtw
 www.3djuegos.com###video_skin
@@ -565,27 +592,6 @@ my.eneba.com##.D1hrTz
 www.mega.cl##.top-bnr-wrap.bnr-wrap
 www.twitch.tv###twilight-sticky-footer-root
 www.zona-leros.com##.store_text
-
-! Bloqueos de cookies
-www.eneba.com##._38-O82
-www.hispachan.org##.cookies
-www.locurainformaticadigital.com##.cookies-color-override--1762072787.cookies-bottom.cookies-theme-block.cookies-type-info.cookies-banner.cookies-window
-pivigames.blog###cookie-law-info-bar
-www.vidaextra.com##.cookies-overlay
-www.changan.cl##.cookies-wrapper
-www.correos.cl###js_barra_aceptacion_cookie
-www.vg247.com###onetrust-consent-sdk
-www.vg247.com##.ot-sdk-container
-www.vg247.com##.ot-fade-in.onetrust-pc-dark-filter
-www.suzuki.cl##.cookies-wrapper
-www.autoplanet.cl##.ng-star-inserted.cookies-height-w.cookies-wrapper
-www.greatwall.cl##.cookies-wrapper
-www.kia.com###cookie_notice
-www.kia.cl##.d-none.alert-cookie
-www.vg247.com###onetrust-consent-sdk
-www.twitch.tv###twilight-sticky-footer-root
-tntsports.cl##.ot-fade-in.onetrust-pc-dark-filter
-tntsports.cl###onetrust-consent-sdk
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
