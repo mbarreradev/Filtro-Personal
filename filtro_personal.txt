@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 05-05-2023
+! Last Modified: 13-05-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -31,8 +31,8 @@ http://satplate.ru^
 http://www.kinotuta.ru^
 http://kvath.kinotuta.ru^
 http://167.99.42.108^
-shalledinition.club^
-imagetopng.club
+||shalledinition.club^
+||imagetopng.club
 https://affiliate.iqoption.com^
 http://partners_click.bitcasino.io^
 http://www.dpbolvw.net^
@@ -41,18 +41,20 @@ https://png2imag.club^
 https://www.narcosxxx.com^
 www.liveinternet.ru^
 https://counter.yadro.ru^
-1q2w3.website^
+||1q2w3.website^
 https://rtxta.bemobtrk.com^
-1b54ce51d5024207c4b.com^
+||1b54ce51d5024207c4b.com^
 ||celebrity-leaks.net/begin.php?img=*$image
-eoredi.com^
+||eoredi.com^
 http://mh9dskj8jg.com^
-exponential.com^
+||exponential.com^
 https://browser-test.info^
 http://applicationgrabb.net^
 http://iv2017.info^
 https://ncontentdelivery.info^
 https://getawesome5.com^
+https://maxpro-strategyprofit.com^
+http://wistfulassign.com^
 http://www.learnthelyrics.com^
 https://freeusenet.website^
 https://kbx1sth37s.com^
@@ -266,6 +268,12 @@ https://www.hostingcloud.racing
 ||rltracker.pro/assets/patreon_new-2a20df181679954ee5b9dbc228058bccef69d284bc9f4dc2c78c449e3e5265d3.png$image
 ||4.bp.blogspot.com/-nFEgK-6fMPg/WjSFvos-GrI/AAAAAAAAoS8/s--fPbocBUMjBHpTSSD6Q7KQf2FWLuXiwCLcBGAs/s1600/uploaded.png$image
 ||jcp.mobi/images/download_pelis.png$image
+||3.bp.blogspot.com/-I_XaGATrO8M/Xm2aOnYHtqI/AAAAAAAA4Pk/FE_id1eBCT02tQ6sPrQJwTofQiBhS6zMwCLcBGAsYHQ/s1600/NITROFLARE.gif$image
+||alt-torrent.com/themes/v3/images/uptobox.png$image
+||azpelis.com/wp-content/themes/toroflix/public/img/suscripcion.png$image
+||i.imgur.com/ELUZ1xF.jpg$image
+||club-hd.com/images/mubbii.gif$image
+||nitroflare.com/img/welcome2purchase.png?v=1.0.0$image
 ||igg-games.com/wp-content/uploads/2015/09/DonateSupport1.gif$image
 ||i0.wp.com/trackdayargentina.com.ar/wp-content/uploads/2018/04/banner-trackday-2018.gif$image
 ||1v.to/img/descargar_bnr.png$image
@@ -397,6 +405,12 @@ www.epicbundle.com##.blog336280tagA > .adsbygoogle
 www.epicbundle.com##.blog336280tagA
 www.epicbundle.com###background-link-left
 www.epicbundle.com###background-link
+nitroflare.com###superbox-container
+nitroflare.com###superbox-wrapper
+nitroflare.com###superbox-overlay
+www.g2a.com##.hIkGWg.modalstyle__Modal-sc-ui2nvy-0
+www.greenmangaming.com##.padd_it.privacy_prompt_content
+www.greenmangaming.com###usp-header
 www.3djuegos.com##.oh.rdnyvmgtw
 www.3djuegos.com###video_skin
 www.3djuegos.com##.cF.pa.oh
