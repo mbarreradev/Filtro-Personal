@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 13-05-2023
+! Last Modified: 26-05-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -46,6 +46,7 @@ https://rtxta.bemobtrk.com^
 ||1b54ce51d5024207c4b.com^
 ||celebrity-leaks.net/begin.php?img=*$image
 ||eoredi.com^
+||azpelis.com^
 http://mh9dskj8jg.com^
 ||exponential.com^
 https://browser-test.info^
@@ -343,6 +344,11 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||cinecalidad.la/wp-content/uploads/2021/12/190-x-110.jpg$image
 ||cinecalidad.la/wp-content/uploads/2021/12/128-x-90.jpg$image
 ||iir.ai/webroot/modern_theme/img/dwndbnr1.png$image
+||zypeliculashd.net/wp-content/uploads/2023/01/Netflix.png$image
+||zypeliculashd.net/wp-content/uploads/2022/10/TodoSeriesHD-Peliculas-Online.png$image
+||zypeliculashd.net/wp-content/uploads/2022/01/Nuevo-proyecto.png$image
+||i.imgur.com/ELUZ1xF.jpg$image
+||i.imgur.com/qJGnOag.jpg$image
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -364,6 +370,9 @@ www.skoda.cl##.vertical-align-content.ot-wo-title.default.otRelFont.otChoicesBnr
 www.bmw.cl##epaas-consent-drawer-shell
 www.citroen.cl###_psaihm_main_div
 www.citroen.cl###_psaihm_overlay
+www.suzuki.cl##.cookies-wrapper
+www.mazda.cl##.cookies-wrapper
+www.haval.cl##.cookies-wrapper
 www.vg247.com###onetrust-consent-sdk
 www.twitch.tv###twilight-sticky-footer-root
 tntsports.cl##.ot-fade-in.onetrust-pc-dark-filter
@@ -372,8 +381,18 @@ www.xataka.com###cookies-overlay
 www.greenmangaming.com##.padd_it.privacy_prompt_content
 www.3djuegos.com##.cookies-overlay
 www.genbeta.com##.cookies-overlay
+www.genbeta.com##.cookies-overlay
+www.mediafire.com###cookie-accept-footer
 
 ! Banners molestos
+zypeliculashd.net##.slide-3570.slider-1280
+asialiveaction.com##center
+asialiveaction.com##.danger-alert.alertt
+asialiveaction.com##.upv
+asialiveaction.com###author-info
+asialiveaction.com###fb
+www.tarreo.com##.onesignal-bell-container-bottom-right.onesignal-reset.onesignal-bell-container
+www.tarreo.com##.embedVideo
 free-proxy-list.net##.rollIn.animated.dark.alert-fpl.alert.col-xs-11.hidden-xs
 free-proxy-list.net##div.rollIn.animated.alert-fpl.alert.col-xs-11.hidden-xs:nth-of-type(2)
 www.us-proxy.org##.rollIn.animated.dark.alert-fpl.alert.col-xs-11.hidden-xs
@@ -460,6 +479,7 @@ cheapdigitaldownload.com##.bg-link-right
 1fichier.com##.ui-front.ui-widget-overlay
 www.filecrypt.cc##.support_2 > i
 www.zona-leros.com##.content_store
+www.zona-leros.com##.store_text
 www.erome.com###bubble
 discord.com##.withTagAsButton-OsgQ9L.avatarWrapper-1B9FTW
 www.promods.net###vik87IaCSLAzLFzkHRRcuWzxsnf9Cw
