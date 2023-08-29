@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 26-05-2023
+! Last Modified: 29-08-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -349,6 +349,7 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||zypeliculashd.net/wp-content/uploads/2022/01/Nuevo-proyecto.png$image
 ||i.imgur.com/ELUZ1xF.jpg$image
 ||i.imgur.com/qJGnOag.jpg$image
+||upload.xchina.biz/ad*
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -383,6 +384,8 @@ www.3djuegos.com##.cookies-overlay
 www.genbeta.com##.cookies-overlay
 www.genbeta.com##.cookies-overlay
 www.mediafire.com###cookie-accept-footer
+www.inalcochevrolet.cl##.ng-star-inserted.cookie-disclaimer
+gatonplayseries.com##.cookie-notice-container
 
 ! Banners molestos
 zypeliculashd.net##.slide-3570.slider-1280
@@ -612,6 +615,10 @@ my.eneba.com##.D1hrTz
 www.mega.cl##.top-bnr-wrap.bnr-wrap
 www.twitch.tv###twilight-sticky-footer-root
 www.zona-leros.com##.store_text
+azpelis.net##ab-detector
+en.xchina.co##.slider-ad
+en.xchina.co##.push-top
+en.xchina.co##.jquery-modal.blocker.current
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
@@ -642,3 +649,7 @@ crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopen
 
 ! Banner sidebar - publicidad https://www.facebook.com
 www.facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
+
+! Correcciones CSS
+en.xchina.co##body:style(overflow:scroll!important)
+
