@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 29-08-2023
+! Last Modified: 07-10-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -136,6 +136,9 @@ https://click.a-ads.com^
 ||hqq.to^
 ||verpelis-hd.com^
 ||ver.gratis^
+||https://tiptop-strean.com^
+||https://www.veronline.cc^
+||https://gnula.su^
 ||fulltv.com.mx^
 https://bit.ly/39v9heL^
 https://pautamp3.com^
@@ -359,6 +362,25 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||i.imgur.com/ELUZ1xF.jpg$image
 ||i.imgur.com/qJGnOag.jpg$image
 ||upload.xchina.biz/ad*
+||www.photopea.com/img/*$image
+||www.photopea.com/img/games/*$image
+||www.photopea.com/img/pp_wide.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/05/planesVIP@2x-4.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/04/vip_new-1.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/04/bp_23-1.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/04/bp_23-1.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/02/ConMig@2x.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/02/ConMot@2x.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/04/payment_23-1.png$image
+||gdrivelatino.net/wp-content/uploads/2023/02/TDBannerNuevo@2x.png$image
+||gdrivelatino.net/wp-content/uploads/2022/06/Office-2.png$image
+||gdrivelatino.net/wp-content/uploads/2022/06/PLEX-1.png$image
+||gdrivelatino.net/wp-content/uploads/2023/02/TDBannerNuevo@2x.png$image
+||gdrivelatinohd.net/wp-content/uploads/2023/02/VerCat@2x-1.png$image
+||gdrivelatinohd.net/paste/img/acceso_vip.png$image
+||gdrivelatino.net/wp-content/themes/GDriveLatinoHD/images/vip_large.png$image
+||gdrivelatinohd.net/wp-content/themes/GDriveLatinoHD/images/vip_large.png$image
+||v5.cinecalidad.men/wp-content/uploads/2023/09/netflix-300x425-1-212x300.jpg$image
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -628,6 +650,14 @@ azpelis.net##ab-detector
 en.xchina.co##.slider-ad
 en.xchina.co##.push-top
 en.xchina.co##.jquery-modal.blocker.current
+gdrivelatino.net##.has_overlay_close.has_overlay.closeButtonPosition_inside_right.brave_popup__step--boxed.closeButton_icon.position_center.brave_popup__step__desktop.brave_popup__step > .brave_popup__step__overlay--closable.brave_popup__step__overlay
+gdrivelatino.net##.has_overlay_close.has_overlay.closeButtonPosition_inside_right.brave_popup__step--boxed.closeButton_icon.position_center.brave_popup__step__desktop.brave_popup__step > .brave_popup__step__inner > .brave_popupSections__wrap
+gdrivelatino.net##body:style(height:unset!important;overflow:scroll!important)
+gdrivelatino.net##.brave_popup--popup.brave_popup
+stripchat.com##.join-sc-community-banner__content
+stripchat.com##.header-notification-body
+en.xchina.co##.current.blocker.jquery-modal
+www3.verteleseriesonline.com###borderimg1
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
@@ -655,6 +685,10 @@ crackwatch.com##.presenter
 ||https://b2.crackwatch.com/file/crackwatch/uvf538/mobile-residentevil.png$image
 ! crackwatch.com##div[id]:has(>a span[style*="data:image"])
 crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
+
+! Mensajes por adblock - Youtube
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.opened
 
 ! Banner sidebar - publicidad https://www.facebook.com
 www.facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
