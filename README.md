@@ -10,6 +10,8 @@
   <b>
   Para usar agregar URL
   <a href="https://raw.githubusercontent.com/mbarreradev/Filtro-Personal/main/filtro_personal.txt" target="_blank">https://raw.githubusercontent.com/mbarreradev/Filtro-Personal/main/filtro_personal.txt</a>
+  </br>
+  Opcional <a href="https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek" target="_blank">https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek</a>
   </b>
 </p>
 
