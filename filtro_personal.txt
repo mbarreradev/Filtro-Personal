@@ -686,10 +686,6 @@ crackwatch.com##.presenter
 ! crackwatch.com##div[id]:has(>a span[style*="data:image"])
 crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
 
-! Mensajes por adblock - Youtube
-www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
-www.youtube.com##.opened
-
 ! Banner sidebar - publicidad https://www.facebook.com
 www.facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
 
