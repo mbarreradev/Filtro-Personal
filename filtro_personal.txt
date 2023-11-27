@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 07-10-2023
+! Last Modified: 27-11-2023
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -26,6 +26,8 @@ https://jrpkizae.com^
 https://adsforcomputerweb.com^
 https://us.frwardresnet.click^
 https://vmjmpwdupi.com^
+https://gnula.su^
+https://excellentpatterns.com^
 https://vgjdxwdyygreva.com^
 http://satplate.ru^
 http://www.kinotuta.ru^
@@ -417,8 +419,10 @@ www.genbeta.com##.cookies-overlay
 www.mediafire.com###cookie-accept-footer
 www.inalcochevrolet.cl##.ng-star-inserted.cookie-disclaimer
 gatonplayseries.com##.cookie-notice-container
+www.geely.cl##.grt-cookie-active.grt-cookie
 
 ! Banners molestos
+www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
 zypeliculashd.net##.slide-3570.slider-1280
 asialiveaction.com##center
 asialiveaction.com##.danger-alert.alertt
