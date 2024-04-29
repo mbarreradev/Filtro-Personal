@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 27-11-2023
+! Last Modified: 29-04-2024
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -266,6 +266,17 @@ https://cuevana3.moda^
 https://www.seriesflv.online^
 https://cuevana3.supply^
 https://cuevana3.services^
+https://homogonymouserapparels.monster^
+https://loaninsurehub.com^
+https://phaiseen.com^
+https://mangensaud.net^
+https://natseegirde.net^
+https://mounaiwu.net^
+https://stoustiz.net^
+https://cirsoaksat.net^
+https://raigauho.com^
+https://roboforex.com^
+https://propellerads.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -383,6 +394,11 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||gdrivelatino.net/wp-content/themes/GDriveLatinoHD/images/vip_large.png$image
 ||gdrivelatinohd.net/wp-content/themes/GDriveLatinoHD/images/vip_large.png$image
 ||v5.cinecalidad.men/wp-content/uploads/2023/09/netflix-300x425-1-212x300.jpg$image
+||www.gdadictos.com/wp-content/uploads/2022/02/Post-3-Cuentas-Drive.png$image
+||gdaf.xyz/assets/video/61213862-6859-4fcd-8df9-fbdbde6e7562.webm$media
+||mastermovieshd.com/wp-content/uploads/2023/12/acceso-vip-MASTERMOVIESHD*.png$image
+||m3u.cl/img/streamdierct_animado.gif$image
+||clicksfly.com/img/ref/320x100.png$image
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -662,6 +678,12 @@ stripchat.com##.join-sc-community-banner__content
 stripchat.com##.header-notification-body
 en.xchina.co##.current.blocker.jquery-modal
 www3.verteleseriesonline.com###borderimg1
+anonstories.com##.show-menu.nav
+anonstories.com##.nav
+www.gdadictos.com##.ms-container
+www.gdadictos.com##.close-sticky.middle-header > center
+www.gdadictos.com###custom_html-4
+titoseries.xyz##.strpburtymhlvnxrlbxnjtelhwssvxdwbmnvfrlkughhmlmstsgmuj.vuninznjrljvezcauxsnvvvkhvcfbvvrpbpcyxvfdutswfnuzxbzyzsgmuj
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
