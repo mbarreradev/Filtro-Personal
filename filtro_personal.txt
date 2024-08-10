@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 29-04-2024
+! Last Modified: 10-07-2024
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -277,6 +277,18 @@ https://cirsoaksat.net^
 https://raigauho.com^
 https://roboforex.com^
 https://propellerads.com^
+https://networkdeepchain.com^
+https://shuthootch.com^
+https://oackoulimtoo.com^
+https://weemofee.com^
+https://soupteewhish.com^
+https://glooltoora.net^
+https://groapeeque.com^
+https://faituzou.net^
+https://cuevanaseries.tv^
+https://jugabet.cl^
+https://rentry.co^
+http://ww25.kvntutos.net^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -684,6 +696,8 @@ www.gdadictos.com##.ms-container
 www.gdadictos.com##.close-sticky.middle-header > center
 www.gdadictos.com###custom_html-4
 titoseries.xyz##.strpburtymhlvnxrlbxnjtelhwssvxdwbmnvfrlkughhmlmstsgmuj.vuninznjrljvezcauxsnvvvkhvcfbvvrpbpcyxvfdutswfnuzxbzyzsgmuj
+megapeliculasrip.org##button
+xchina.co##.vid
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
