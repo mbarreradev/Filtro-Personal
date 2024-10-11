@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 10-07-2024
+! Last Modified: 11-10-2024
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -288,7 +288,10 @@ https://faituzou.net^
 https://cuevanaseries.tv^
 https://jugabet.cl^
 https://rentry.co^
-http://ww25.kvntutos.net^
+http://ww25.kvntutos.net
+https://www.freediscussions.com^
+https://whitebit.com^
+https://lekaleregoldfor.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -411,6 +414,16 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||mastermovieshd.com/wp-content/uploads/2023/12/acceso-vip-MASTERMOVIESHD*.png$image
 ||m3u.cl/img/streamdierct_animado.gif$image
 ||clicksfly.com/img/ref/320x100.png$image
+||www.peliculasgd.net/wp-content/uploads/2023/06/2-967x196.jpg$image
+||i.imgur.com/onXAmj1.jpg$image
+||i.imgur.com/aR6aqBh.jpg$image
+||1.bp.blogspot.com/-pmSgacFF2PM/XhP909EtJ0I/AAAAAAAAlDE/WG0Bi1taMvopVapa-fxbhd9bMiFZ1qe5gCLcBGAsYHQ/s1600/mhlzy346.jpg$image
+||1.bp.blogspot.com/-B9OBDrpF2lc/Xr8NMrI_RhI/AAAAAAAArAE/oN8S50vjtTM02rsOblkhSGgkw40tw8r8gCLcBGAsYHQ/s1600/mhlzy346.png$image
+||1.bp.blogspot.com/-YfnLhW9m5MQ/YUPlfPP0KwI/AAAAAAAAEUw/bUElmtczbjMlIi1VpeWC0oscsqXHZY5SwCLcBGAsYHQ/s263/FR.png$image
+||fitdynamos.com/images/*.png$image
+||fitdynamos.com/images/*.jpg$image
+||fitdynamos.com/images/*.gif$image
+||fitdynamos.com/wp-content/uploads/*$image
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -448,6 +461,8 @@ www.mediafire.com###cookie-accept-footer
 www.inalcochevrolet.cl##.ng-star-inserted.cookie-disclaimer
 gatonplayseries.com##.cookie-notice-container
 www.geely.cl##.grt-cookie-active.grt-cookie
+www.cinemark.cl##.modal-cookies
+www.cinemark.cl##.modal-cookies-backdrop
 
 ! Banners molestos
 www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
@@ -698,6 +713,16 @@ www.gdadictos.com###custom_html-4
 titoseries.xyz##.strpburtymhlvnxrlbxnjtelhwssvxdwbmnvfrlkughhmlmstsgmuj.vuninznjrljvezcauxsnvvvkhvcfbvvrpbpcyxvfdutswfnuzxbzyzsgmuj
 megapeliculasrip.org##button
 xchina.co##.vid
+es.aliexpress.com##sidecart
+es.aliexpress.com##.cart-body
+es.aliexpress.com##.cart-wrap
+satellites.pro###place2
+es.wikipedia.org##.frb-nag-link
+fitdynamos.com##.modal-background
+fitdynamos.com##.modal-card-head
+fitdynamos.com##.inside-article
+fitdynamos.com##.paging-navigation
+fitdynamos.com###ad_300x600_1s
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
