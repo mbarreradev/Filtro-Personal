@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 11-10-2024
+! Last Modified: 03-04-2025
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -292,6 +292,8 @@ http://ww25.kvntutos.net
 https://www.freediscussions.com^
 https://whitebit.com^
 https://lekaleregoldfor.com^
+https://best-experience-cool.com^
+https://space.ursuing.space^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -424,6 +426,14 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||fitdynamos.com/images/*.jpg$image
 ||fitdynamos.com/images/*.gif$image
 ||fitdynamos.com/wp-content/uploads/*$image
+||gdrivelatinohd.net/wp-content/uploads/2024/09/BaulPass-1.png$image
+||gdrivelatinohd.net/wp-content/uploads/2024/01/vip2024.png$image
+||gdrivelatino.net/wp-content/uploads/2024/09/BaulPass-1.png$image
+||i.ibb.co/B2tHFcM/fifnal16.png$image
+||test.profitsfly.com/wp-content/uploads/2023/05/bg-h2-pattern.png$image
+||labgame.io/images/*$image
+||static.gamezop.com/*$image
+||i.ibb.co/ym4PfLZV/1011x90.png$image
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -463,6 +473,8 @@ gatonplayseries.com##.cookie-notice-container
 www.geely.cl##.grt-cookie-active.grt-cookie
 www.cinemark.cl##.modal-cookies
 www.cinemark.cl##.modal-cookies-backdrop
+www.latercera.com##.pw-frontier
+www.marca.com##.popup-disagreed-cookies
 
 ! Banners molestos
 www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
@@ -723,6 +735,19 @@ fitdynamos.com##.modal-card-head
 fitdynamos.com##.inside-article
 fitdynamos.com##.paging-navigation
 fitdynamos.com###ad_300x600_1s
+www.ssangyong.cl##.ot-sdk-container > .ot-sdk-row
+seydisehirmansethaber.com##.vertical-half-page
+seydisehirmansethaber.com##.half-page-container-x
+fitdynamos.com##.modal-card-body
+9sblog.com###interstitial
+descargatepelis.com##.single > center > [href^="https://nwgetfrevideo.click/"] > button
+descargatepelis.com##.entry-content > center > [href^="https://nwgetfrevideo.click/"] > button
+wordcounter.icu###downloadButton
+packsparapobres.com###twitch-embed
+||syndication.twitter.com/srv/timeline-profile*$subdocument
+www.jacautos.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
+blogmystt.com##.inside-article
+www.themoviedb.org###onetrust-banner-sdk > div
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
