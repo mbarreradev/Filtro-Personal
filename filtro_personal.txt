@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 03-04-2025
+! Last Modified: 26-04-2025
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -434,6 +434,9 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||labgame.io/images/*$image
 ||static.gamezop.com/*$image
 ||i.ibb.co/ym4PfLZV/1011x90.png$image
+||i.imgur.com/93pF9lr.png$image
+||rapidgator.net/images/rapid_android2.png$image
+||m3u.cl/img/streamdierct_animado.gif$image
 
 ! Bloqueos de cookies
 www.hispachan.org##.cookies
@@ -475,6 +478,7 @@ www.cinemark.cl##.modal-cookies
 www.cinemark.cl##.modal-cookies-backdrop
 www.latercera.com##.pw-frontier
 www.marca.com##.popup-disagreed-cookies
+www.3djuegos.lat##.cookies-overlay
 
 ! Banners molestos
 www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
@@ -747,7 +751,12 @@ packsparapobres.com###twitch-embed
 ||syndication.twitter.com/srv/timeline-profile*$subdocument
 www.jacautos.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
 blogmystt.com##.inside-article
-www.themoviedb.org###onetrust-banner-sdk > div
+www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
+www.allkeyshop.com##.blc-left
+www.allkeyshop.com##.blc-right
+wordcounter.icu###downloadButton
+www.themoviedb.org##.ot-sdk-container > .ot-sdk-row
+www.adnradio.cl##.cnt-player-permanente
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
