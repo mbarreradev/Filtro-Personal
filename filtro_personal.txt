@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 26-04-2025
+! Last Modified: 27-07-2025
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -479,6 +479,8 @@ www.cinemark.cl##.modal-cookies-backdrop
 www.latercera.com##.pw-frontier
 www.marca.com##.popup-disagreed-cookies
 www.3djuegos.lat##.cookies-overlay
+www.subaru.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
+www.gwm.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
 
 ! Banners molestos
 www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
@@ -757,6 +759,9 @@ www.allkeyshop.com##.blc-right
 wordcounter.icu###downloadButton
 www.themoviedb.org##.ot-sdk-container > .ot-sdk-row
 www.adnradio.cl##.cnt-player-permanente
+medium.com##.fk.cn.q.ab.to.tn.tm.tl.tk.tj.v.ti.t.th
+jobzhub.store###ad1
+jobzhub.store##.content > div
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
