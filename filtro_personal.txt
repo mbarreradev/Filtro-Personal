@@ -491,7 +491,6 @@ www.marca.com##.popup-disagreed-cookies
 www.3djuegos.lat##.cookies-overlay
 www.subaru.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
 www.gwm.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
-www.gwm.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
 chery.cl##.ot-sdk-container > .ot-sdk-row
 byd-auto.cl##.ot-sdk-container
 byd-auto.cl##.ot-fade-in.onetrust-pc-dark-filter
