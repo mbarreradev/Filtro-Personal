@@ -1,8 +1,12 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 23-08-2025
+! Last Modified: 14-12-2025
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
+
+! PayWall
+||latercera.com/arc/subs/p.min.js$script
+||marinetraffic.live/es/paywall/$subdocument
 
 ||static.queue-it.net^$script
 https://static.hotjar.com^
@@ -301,6 +305,8 @@ https://storagesapp.com^
 https://morrowingbizarreanaplasm.monster^
 https://alnagerunimpugnedcrowbar.com^
 https://provencecurrantbindles.monster^
+https://tekpulsecoincatapp.monster^
+https://usestorage.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -448,7 +454,7 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||insurancemyst.com/wp-content/uploads/*$image
 ||jobzhub.store/*$image
 
-! Bloqueos de cookies
+! Cookies
 www.hispachan.org##.cookies
 www.locurainformaticadigital.com##.cookies-color-override--1762072787.cookies-bottom.cookies-theme-block.cookies-type-info.cookies-banner.cookies-window
 pivigames.blog###cookie-law-info-bar
@@ -501,6 +507,10 @@ www.hbomax.com##.ot-fade-in.onetrust-pc-dark-filter
 stackoverflow.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
 www.zona-leros.com##.warp-left.warp-notification
 codesandbox.io##.cm__body
+www.chileautos.cl##.animate.gdpr-cl.cancel.gdpr
+www5.javmost.com###devtools-block-parent
+www.dailymotion.com##.CookiePopup__desktopContainer___ZCIMO
+
 
 ! Banners molestos
 www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
@@ -788,6 +798,11 @@ www.abandomoviez.net###prerol
 www.abandomoviez.net###\33 00
 es.aliexpress.com###sidecart
 disqus.com##.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom.osano-cm-dialog.osano-cm-window__dialog
+www.flightradar24.com##.bg-gray-1500.flex-col.w-sidebar.h-full.flex
+es.wikipedia.org##.frb-inline-main
+yojnawali.com###main > .clr.container
+ensureguide.com##.code-block-4.code-block
+outlook.live.com##.GssDD
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
@@ -809,12 +824,6 @@ socialblade.com##div:nth-of-type(18) > div > .socialblade-heartbeat > div:nth-of
 socialblade.com##div:nth-of-type(16) > div > div:nth-of-type(1) > div:nth-of-type(1)
 socialblade.com##div:nth-of-type(16) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
 
-! Mensajes por adblock, Publicidad - CrackWatch
-crackwatch.com##.presenter
-||https://b2.crackwatch.com/file/crackwatch/uvf538/desktop-residentevil.png$image
-||https://b2.crackwatch.com/file/crackwatch/uvf538/mobile-residentevil.png$image
-! crackwatch.com##div[id]:has(>a span[style*="data:image"])
-crackwatch.com##div[style$="text-align: center;"] > div > a[rel="nofollow noopener noreferrer"] span[style*="background-image"][style*="base64"]:style(height: 1px!important; min-height: 1px!important; background-image: none!important;)
 
 ! Banner sidebar - publicidad https://www.facebook.com
 www.facebook.com##.cxgpxx05 > div > span > div > .l9j0dhe7
