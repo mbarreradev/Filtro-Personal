@@ -1,6 +1,6 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 14-12-2025
+! Last Modified: 21-12-2025
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
 ! Expires: 7 days
 
@@ -453,6 +453,7 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||www.abandomoviez.net/skins/*.jpg$image
 ||insurancemyst.com/wp-content/uploads/*$image
 ||jobzhub.store/*$image
+||store.gacmotor.cl/mobify/bundle/730/static/gac-chile/img/home_carousel_background.png$image
 
 ! Cookies
 www.hispachan.org##.cookies
@@ -510,6 +511,12 @@ codesandbox.io##.cm__body
 www.chileautos.cl##.animate.gdpr-cl.cancel.gdpr
 www5.javmost.com###devtools-block-parent
 www.dailymotion.com##.CookiePopup__desktopContainer___ZCIMO
+www.dahuasecurity.com##.top_tip_wrap
+store.gacmotor.cl##.ot-sdk-container
+www.chileautos.cl##.animate.gdpr-cl.cancel.gdpr
+www.nvidia.com##.ot-sdk-container > .ot-sdk-row
+2k.com##.ot-sdk-row > .ot-sdk-columns.ot-sdk-eight
+www.gtd.cl###cookieModal
 
 
 ! Banners molestos
@@ -803,6 +810,7 @@ es.wikipedia.org##.frb-inline-main
 yojnawali.com###main > .clr.container
 ensureguide.com##.code-block-4.code-block
 outlook.live.com##.GssDD
+www.kia.cl##div.cmp-kia-header__menu-modelos__buttons
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
