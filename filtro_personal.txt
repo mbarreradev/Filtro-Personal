@@ -1,8 +1,8 @@
 ! Title: Filtro Personal
 ! Description: Filtro Personal
-! Last Modified: 21-12-2025
+! Last Modified: 17-10-2026
 ! Homepage: https://github.com/mbarreradev/Filtro-Personal
-! Expires: 7 days
+! Expires: 30 days
 
 ! PayWall
 ||latercera.com/arc/subs/p.min.js$script
@@ -22,52 +22,52 @@ player.twitch.tv##.player-overlay
 ! Bloqueador de Discord en TruckersMP Settings
 ||discordapp.com/widget$subdocument
 
-! Páginas publicidad, molestas y con virus, no desbloquear
-https://frgwf.comfortykive.xyz^
-https://clubfiletyc.com^
-https://speednetpc.com^
-https://jrpkizae.com^
-https://adsforcomputerweb.com^
-https://us.frwardresnet.click^
-https://vmjmpwdupi.com^
-https://gnula.su^
-https://excellentpatterns.com^
-https://vgjdxwdyygreva.com^
-http://satplate.ru^
-http://www.kinotuta.ru^
-http://kvath.kinotuta.ru^
-http://167.99.42.108^
+! Páginas publicidad, molestas y con virus
+||https://frgwf.comfortykive.xyz^
+||https://clubfiletyc.com^
+||https://speednetpc.com^
+||https://jrpkizae.com^
+||https://adsforcomputerweb.com^
+||https://us.frwardresnet.click^
+||https://vmjmpwdupi.com^
+||https://gnula.su^
+||https://excellentpatterns.com^
+||https://vgjdxwdyygreva.com^
+||http://satplate.ru^
+||http://www.kinotuta.ru^
+||http://kvath.kinotuta.ru^
+||http://167.99.42.108^
 ||shalledinition.club^
 ||imagetopng.club
-https://affiliate.iqoption.com^
-http://partners_click.bitcasino.io^
-http://www.dpbolvw.net^
-http://wiresurequezer.pro^
-https://png2imag.club^
-https://www.narcosxxx.com^
-www.liveinternet.ru^
-https://counter.yadro.ru^
+||https://affiliate.iqoption.com^
+||http://partners_click.bitcasino.io^
+||http://www.dpbolvw.net^
+||http://wiresurequezer.pro^
+||https://png2imag.club^
+||https://www.narcosxxx.com^
+||www.liveinternet.ru^
+||https://counter.yadro.ru^
 ||1q2w3.website^
-https://rtxta.bemobtrk.com^
+||https://rtxta.bemobtrk.com^
 ||1b54ce51d5024207c4b.com^
 ||celebrity-leaks.net/begin.php?img=*$image
 ||eoredi.com^
 ||azpelis.com^
-http://mh9dskj8jg.com^
+||http://mh9dskj8jg.com^
 ||exponential.com^
-https://browser-test.info^
-http://applicationgrabb.net^
-http://iv2017.info^
-https://ncontentdelivery.info^
-https://getawesome5.com^
-https://maxpro-strategyprofit.com^
-http://wistfulassign.com^
-http://www.learnthelyrics.com^
-https://freeusenet.website^
-https://kbx1sth37s.com^
-http://163.172.224.35^
+||https://browser-test.info^
+||http://applicationgrabb.net^
+||http://iv2017.info^
+||https://ncontentdelivery.info^
+||https://getawesome5.com^
+||https://maxpro-strategyprofit.com^
+||http://wistfulassign.com^
+||http://www.learnthelyrics.com^
+||https://freeusenet.website^
+||https://kbx1sth37s.com^
+||http://163.172.224.35^
 ||theirsvendor.com^
-http://pageperso.free.fr^
+||http://pageperso.free.fr^
 ||internetspeedtracker.com^
 ||bullads.net^
 ||y2mate.com^
@@ -87,25 +87,25 @@ https://investing-review.com^
 https://telecianien.host^
 https://alcidebrought.pro^
 ||chatbro.com^
-|st.chatango.com/h5/gz/r0928181318/id.html$subdocument
+||st.chatango.com/h5/gz/r0928181318/id.html$subdocument
 ||st.chatango.com/h5/gz/r1030181148/id.html$subdocument
 ||st.chatango.com^
-http://ww12.europerikuytol.info^
-https://deals.pastebin.com^
-https://www.cinecalidad.plus^
-https://jnhwq.25481.online^
-https://www.pelis24.net^
-https://blog-peliculas.com^
-https://offgashah.club^
-https://bitcoinnews24.me^
-https://jzhzm30o49gv.com^
-https://iqoption.com^
-https://redirect.kleeno.xyz^
-https://llink.site^
-https://ueuodgnrhb.com^
-https://thebestgame2020.com^
-https://velocitycdn.com^
-|https://ads2.uptobox.com/www/delivery/asyncjs.php$subdocument
+||http://ww12.europerikuytol.info^
+||https://deals.pastebin.com^
+||https://www.cinecalidad.plus^
+||https://jnhwq.25481.online^
+||https://www.pelis24.net^
+||https://blog-peliculas.com^
+||https://offgashah.club^
+||https://bitcoinnews24.me^
+||https://jzhzm30o49gv.com^
+||https://iqoption.com^
+||https://redirect.kleeno.xyz^
+||https://llink.site^
+||https://ueuodgnrhb.com^
+||https://thebestgame2020.com^
+||https://velocitycdn.com^
+||https://ads2.uptobox.com/www/delivery/asyncjs.php$subdocument
 https://openload.co^
 http://mallowsmother.com^
 https://track.adsplay.in^
@@ -146,15 +146,15 @@ https://click.a-ads.com^
 ||https://www.veronline.cc^
 ||https://gnula.su^
 ||fulltv.com.mx^
-https://bit.ly/39v9heL^
-https://pautamp3.com^
-https://www.cpmprofitablenetwork.com^
-https://bemachopor.com^
-http://slippersferry.com^
-https://fobogruca.com^
-http://shoveoccupiedinsult.com^
-http://frolicpan.com^
-https://significadoconcepto.com^
+||https://bit.ly/39v9heL^
+||https://pautamp3.com^
+||https://www.cpmprofitablenetwork.com^
+||https://bemachopor.com^
+||http://slippersferry.com^
+||https://fobogruca.com^
+||http://shoveoccupiedinsult.com^
+||http://frolicpan.com^
+||https://significadoconcepto.com^
 ||wpadmngr.com^
 ||cpmgatenetwork.com^
 ||8a78031439.com^
@@ -166,9 +166,9 @@ https://significadoconcepto.com^
 ||eiteratebef.top^
 ||fqvvgjvjn.com^
 ||gfpplflrif.com^
-https://doubleadserve.com^
-https://touroumu.com^
-https://ginzogwine.casa^
+||https://doubleadserve.com^
+||https://touroumu.com^
+||https://ginzogwine.casa^
 ||taxzcqghel.com^
 ||cc29bca73b.com^
 ||phapihwvah.com^
@@ -176,18 +176,18 @@ https://ginzogwine.casa^
 ||3000f4e548.com^
 ||antiadblocksystems.com^
 ||jads.co^
-https://pwieu.com^
-https://jeperm.com^
+||https://pwieu.com^
+||https://jeperm.com^
 ||wxhiojortldjyegtkx.bid^
 ||adsco.re^
 ||adcdnx.com^
 ||3e41501a36.com^
 ||batteusp2hilenor.com^
 ||rccsekuitas.com^
-https://dtre.space^
-https://www.dafabet.com^
+||https://dtre.space^
+||https://www.dafabet.com^
 ||jxqkiqpvg.com^
-||||hloprhawmswdb.com^
+||hloprhawmswdb.com^
 https://www.codegrepper.com^
 https://www.tabnine.com^
 https://pervertgirlsvideos.com/wp-content/plugins/deblocker/js/ads.min.js?ver=3.1.2^
@@ -219,10 +219,10 @@ https://skidrowcodex.co^
 ||hostingcloud.racing^
 ||authedmine.com^
 ||verifypow.com^
-https://inkarvylage15.live^
-http://da26gklo05t50.cloudfront.net^
-https://petoweflip.com^
-https://add-fix.com^
+||https://inkarvylage15.live^
+||http://da26gklo05t50.cloudfront.net^
+||https://petoweflip.com^
+||https://add-fix.com^
 ||bbtoolser.it^
 ||targonmatteo.it^
 ||rcriparazionielettrodomestici.it^
@@ -290,23 +290,33 @@ https://glooltoora.net^
 https://groapeeque.com^
 https://faituzou.net^
 https://cuevanaseries.tv^
-https://jugabet.cl^
-https://rentry.co^
-http://ww25.kvntutos.net
-https://www.freediscussions.com^
-https://whitebit.com^
-https://lekaleregoldfor.com^
-https://best-experience-cool.com^
-https://space.ursuing.space^
-https://meetiqparcel.site^
-https://primepcprotocol.com^
-https://media.cloud839v1.cyou^
-https://storagesapp.com^
-https://morrowingbizarreanaplasm.monster^
-https://alnagerunimpugnedcrowbar.com^
-https://provencecurrantbindles.monster^
-https://tekpulsecoincatapp.monster^
-https://usestorage.com^
+||https://jugabet.cl^
+||https://rentry.co^
+||http://ww25.kvntutos.net
+||https://www.freediscussions.com^
+||https://whitebit.com^
+||https://lekaleregoldfor.com^
+||https://best-experience-cool.com^
+||https://space.ursuing.space^
+||https://meetiqparcel.site^
+||https://primepcprotocol.com^
+||https://media.cloud839v1.cyou^
+||https://storagesapp.com^
+||https://morrowingbizarreanaplasm.monster^
+||https://alnagerunimpugnedcrowbar.com^
+||https://provencecurrantbindles.monster^
+||https://tekpulsecoincatapp.monster^
+||https://usestorage.com^
+||https://media.turbofilevault1.homes^
+||https://cozy-click.com^
+||https://usestorages.com^
+||https://monoschinos.club^
+||https://dp.cudavagommier.com^
+||https://cudavagommier.com^
+||https://uc.guddledberith.com^
+||https://guddledberith.com^
+||ouchwhere.com^
+||dead.ouchwhere.com^
 
 ! Páginas con mineros
 https://www.hostingcloud.racing
@@ -454,6 +464,7 @@ https://filecrypt.cc/images/jkh324kjh.png$image
 ||insurancemyst.com/wp-content/uploads/*$image
 ||jobzhub.store/*$image
 ||store.gacmotor.cl/mobify/bundle/730/static/gac-chile/img/home_carousel_background.png$image
+||s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/img/lang_es.c6fdd323.png$image
 
 ! Cookies
 www.hispachan.org##.cookies
@@ -517,7 +528,31 @@ www.chileautos.cl##.animate.gdpr-cl.cancel.gdpr
 www.nvidia.com##.ot-sdk-container > .ot-sdk-row
 2k.com##.ot-sdk-row > .ot-sdk-columns.ot-sdk-eight
 www.gtd.cl###cookieModal
-
+www.crunchyroll.com##.ot-sdk-container > .ot-sdk-row
+www.puntoticket.com##.cookie-disclaimer
+www.byd.com##.cmpwrapper
+www.alfaromeo.cl###onetrust-consent-sdk
+www.zxauto.cl##.active.p-3.bg-white.position-fixed.mainbox_aceptar_cookies
+exeedbornformore.cl##.ot-sdk-container > .ot-sdk-row
+www.fiat.cl###onetrust-consent-sdk
+geely.cl##.cookies__show.cookies
+jmcchile.cl##.ot-sdk-container > .ot-sdk-row
+mitsubishi-motors.cl##.ot-sdk-container > .ot-sdk-row
+www.ram.com###onetrust-consent-sdk
+www.renault.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
+www.seat.cl###onetrust-consent-sdk
+www.volvocars.com###onetrust-consent-sdk
+www.tesla.com##.cookie-banner
+forums.socialmediagirls.com##.notice--cookie
+www.bmw.cl##.grt-cookie-active.grt-cookie
+www.mini.cl##.grt-cookie-active.grt-cookie
+www.emailnator.com###cookie-notice
+suzuki.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
+www.dfsk.cl##.show.align-items-md-center.flex-md-row.flex-column.d-flex.cookies-wrapper.offcanvas-bottom.offcanvas
+www.fiat.cl##.hub-info-bar
+dongfengchile.cl##.d-none.alert-cookie
+chile.landrover.com##.jlr-section--theme-white.jlr-section.jlr-cookie-banner
+www.jumbo.cl###onetrust-consent-sdk
 
 ! Banners molestos
 www.changan.cl##.z-50.w-full.text-gray-400.bg-black.py-16.px-4.left-0.bottom-0.fixed
@@ -811,6 +846,11 @@ yojnawali.com###main > .clr.container
 ensureguide.com##.code-block-4.code-block
 outlook.live.com##.GssDD
 www.kia.cl##div.cmp-kia-header__menu-modelos__buttons
+vip.hdlatino.us###tpbr_box
+www.gatonplayseries.com###modal-aviso
+gdrivelatinohd.net##.▶__wrap
+www.terabox.com##.bottom-tip-wrap-part.bottom-tip-wrap
+vip.hdlatino.us##.mb-2.col-md-3 > .mb-2.mb-12.col-md-12.col-12 > .bordes.text-center > .telegramim_pulse.telegramim_shadow.telegramim_button
 
 ! Mensajes por adblock, SocialBlade
 socialblade.com##.cas-wide-container
